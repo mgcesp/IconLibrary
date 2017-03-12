@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-148.000000, -1490.000000)" fill="#767676">
+            <g id="Group" transform="translate(147.000000, 1490.000000)">
+                <path d="M12.999,0.0708 C10.61,-0.7252 9.49,5.4508 9.133,8.0008 L13.359,8.0008 C14.053,5.7928 15.319,0.8438 12.999,0.0708" id="Fill-821"></path>
+                <path d="M8.8652,8.0005 C8.5082,5.4505 7.3882,-0.7255 4.9992,0.0705 C2.6782,0.8445 3.9452,5.7925 4.6392,8.0005 L8.8652,8.0005 Z" id="Fill-822"></path>
+                <path d="M3.999,19.0005 C3.999,19.5525 4.447,20.0005 4.999,20.0005 L12.999,20.0005 C13.551,20.0005 13.999,19.5525 13.999,19.0005 L13.999,16.0005 L3.999,16.0005 L3.999,19.0005 Z" id="Fill-823"></path>
+                <polygon id="Fill-824" points="0.999 9.0005 0.999 11.0005 3.999 11.0005 3.999 15.0005 13.999 15.0005 13.999 11.0005 16.999 11.0005 16.999 9.0005"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

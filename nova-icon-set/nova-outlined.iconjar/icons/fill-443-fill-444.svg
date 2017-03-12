@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 443 + Fill 444</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-147.000000, -528.000000)" fill="#757575">
+            <g id="Fill-443-+-Fill-444" transform="translate(147.000000, 528.000000)">
+                <path d="M2,7.0005 L2,6.0005 C2,5.4485 2.449,5.0005 3,5.0005 C3.551,5.0005 4,5.4485 4,6.0005 L4,7.0005 L2,7.0005 Z M4,16.6975 L3,18.1975 L2,16.6975 L2,9.0005 L4,9.0005 L4,16.6975 Z M3,3.0005 C1.346,3.0005 0,4.3465 0,6.0005 L0,17.3035 L3,21.8035 L6,17.3035 L6,6.0005 C6,4.3465 4.654,3.0005 3,3.0005 L3,3.0005 Z" id="Fill-443"></path>
+                <path d="M10,20.0005 L10,17.0005 L13,17.0005 L13,15.0005 L10,15.0005 L10,12.0005 L13,12.0005 L13,10.0005 L10,10.0005 L10,7.0005 L13,7.0005 L13,5.0005 L10,5.0005 L10,2.0005 L16,2.0005 L16.001,20.0005 L10,20.0005 Z M16,0.0005 L10,0.0005 C8.897,0.0005 8,0.8985 8,2.0005 L8,20.0005 C8,21.1035 8.897,22.0005 10,22.0005 L16,22.0005 C17.103,22.0005 18,21.1035 18,20.0005 L18,2.0005 C18,0.8985 17.103,0.0005 16,0.0005 L16,0.0005 Z" id="Fill-444"></path>
+            </g>
+        </g>
+    </g>
+</svg>

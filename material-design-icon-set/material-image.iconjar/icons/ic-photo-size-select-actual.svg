@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_photo_size_select_actual</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image" transform="translate(-289.000000, -675.000000)">
+            <g id="ic_photo_size_select_actual" transform="translate(288.000000, 672.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="24 24 0 24 0 0 24 0"></polygon>
+                    <path d="M21,3 L3,3 C2,3 1,4 1,5 L1,19 C1,20.1 1.9,21 3,21 L21,21 C22,21 23,20 23,19 L23,5 C23,4 22,3 21,3 L21,3 Z M5,17 L8.5,12.5 L11,15.51 L14.5,11 L19,17 L5,17 L5,17 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

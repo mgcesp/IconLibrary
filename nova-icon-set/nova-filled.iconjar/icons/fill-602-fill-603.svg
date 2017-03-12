@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 602 + Fill 603</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-385.000000, -1058.000000)" fill="#767676">
+            <g id="Fill-602-+-Fill-603" transform="translate(385.000000, 1058.000000)">
+                <path d="M8.8018,11.041 L10.6558,17.432 C11.2868,17.274 11.9408,17.126 12.6098,16.989 L10.7258,10.493 C11.6318,9.461 12.8258,8.662 14.2438,8.25 C16.0898,7.715 17.9688,7.928 19.5758,8.7 C18.0888,3.722 13.0608,0.76 8.0488,1.762 L7.7478,0.722 C7.5938,0.191 7.0378,-0.113 6.5098,0.041 C5.9788,0.194 5.6738,0.748 5.8268,1.279 L6.1358,2.345 C1.5328,4.269 -1.0042,9.361 0.3748,14.269 C1.3188,12.757 2.7938,11.571 4.6398,11.036 C6.0528,10.625 7.4868,10.658 8.8018,11.041" id="Fill-602"></path>
+                <path d="M2.9995,22.0005 L21.9995,22.0005 L21.9995,17.0005 C10.9995,17.0005 2.9995,21.0005 2.9995,22.0005" id="Fill-603"></path>
+            </g>
+        </g>
+    </g>
+</svg>

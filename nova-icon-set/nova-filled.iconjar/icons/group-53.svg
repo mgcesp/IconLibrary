@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-96.000000, -1440.000000)" fill="#767676">
+            <g id="Group" transform="translate(96.000000, 1440.000000)">
+                <polygon id="Fill-795" points="23.8955 0.0064 14.0005 1.0474 14.0005 3.0594 24.1045 1.9944"></polygon>
+                <polygon id="Fill-796" points="7 3.7954 7 1.7844 4.895 2.0064 5.105 3.9944"></polygon>
+                <polygon id="Fill-797" points="5 7 7 7 7 5 5 5"></polygon>
+                <polygon id="Fill-798" points="14 7 24 7 24 5 14 5"></polygon>
+                <polygon id="Fill-799" points="10 1 8 1 8 10 10 10"></polygon>
+                <polygon id="Fill-800" points="13 0 11 0 11 8 13 8"></polygon>
+                <path d="M15.7915,11.4063 C15.7805,11.3923 15.7795,11.3733 15.7675,11.3603 C15.5775,11.1323 15.2965,11.0003 14.9995,11.0003 L3.9995,11.0003 C3.7035,11.0003 3.4225,11.1323 3.2325,11.3603 C3.2205,11.3733 3.2185,11.3923 3.2085,11.4063 L3.2005,11.4013 L0.2005,15.4013 L1.7995,16.6003 L3.4255,14.4323 L5.0165,23.1793 C5.1025,23.6553 5.5165,24.0003 5.9995,24.0003 L12.9995,24.0003 C13.4835,24.0003 13.8975,23.6553 13.9835,23.1793 L15.5745,14.4323 L17.2005,16.6003 L18.7995,15.4013 L15.7995,11.4013 L15.7915,11.4063 Z" id="Fill-801"></path>
+            </g>
+        </g>
+    </g>
+</svg>

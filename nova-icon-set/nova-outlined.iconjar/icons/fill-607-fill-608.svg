@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 607 + Fill 608</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-292.000000, -961.000000)" fill="#767676">
+            <g id="Fill-607-+-Fill-608" transform="translate(292.000000, 961.000000)">
+                <path d="M8.0005,17.6558 C5.8705,15.6588 2.0005,11.3398 2.0005,8.0018 C2.0005,4.6928 4.6915,2.0018 8.0005,2.0018 C11.3095,2.0018 14.0005,4.6928 14.0005,8.0018 C14.0005,11.3398 10.1305,15.6588 8.0005,17.6558 M8.0005,0.0018 C3.5895,0.0018 0.0005,3.5898 0.0005,8.0018 C0.0005,12.4118 4.6445,17.4418 8.0005,20.3188 C11.3545,17.4438 16.0005,12.4138 16.0005,8.0018 C16.0005,3.5898 12.4115,0.0018 8.0005,0.0018" id="Fill-607"></path>
+                <polygon id="Fill-608" points="10.2935 4.2949 8.0005 6.5869 5.7075 4.2949 4.2935 5.7089 6.5865 8.0019 4.2935 10.2949 5.7075 11.7089 8.0005 9.4149 10.2935 11.7089 11.7075 10.2949 9.4145 8.0019 11.7075 5.7089"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

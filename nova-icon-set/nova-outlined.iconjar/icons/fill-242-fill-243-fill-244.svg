@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 242 + Fill 243 + Fill 244</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-290.000000, -97.000000)" fill="#757575">
+            <g id="Fill-242-+-Fill-243-+-Fill-244" transform="translate(290.000000, 97.000000)">
+                <path d="M2,11.1353 L2,18.0003 L18.001,18.0003 L18,11.1353 L13.64,14.7693 C13.46,14.9183 13.234,15.0003 13,15.0003 L7,15.0003 C6.766,15.0003 6.54,14.9183 6.36,14.7693 L2,11.1353 Z M18,20.0003 L2,20.0003 C0.897,20.0003 0,19.1033 0,18.0003 L0,9.0003 C0,8.6133 0.225,8.2593 0.576,8.0953 C0.926,7.9303 1.342,7.9843 1.64,8.2323 L7.362,13.0003 L12.638,13.0003 L18.36,8.2323 C18.658,7.9843 19.072,7.9313 19.424,8.0953 C19.775,8.2593 20,8.6133 20,9.0003 L20,18.0003 C20,19.1033 19.103,20.0003 18,20.0003 L18,20.0003 Z" id="Fill-242"></path>
+                <polygon id="Fill-243" points="18 7.0005 16 7.0005 16 2.0005 4 2.0005 4 7.0005 2 7.0005 2 0.0005 18 0.0005"></polygon>
+                <path d="M10,11.0005 C10,11.0005 14,8.0915 14,5.9365 C14,3.8895 10.889,3.0005 10,5.6885 C9.111,3.0005 6,3.8895 6,5.9365 C6,8.0915 10,11.0005 10,11.0005" id="Fill-244"></path>
+            </g>
+        </g>
+    </g>
+</svg>

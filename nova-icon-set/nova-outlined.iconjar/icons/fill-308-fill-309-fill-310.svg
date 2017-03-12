@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="23px" viewBox="0 0 16 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 308 + Fill 309 + Fill 310</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-436.000000, -144.000000)" fill="#757575">
+            <g id="Fill-308-+-Fill-309-+-Fill-310" transform="translate(436.000000, 144.000000)">
+                <path d="M8,3.0552 L12.59,4.5842 L11.382,7.0002 L4.618,7.0002 L3.41,4.5842 L8,3.0552 Z M8,12.0002 C6.346,12.0002 5,10.6552 5,9.0002 L11,9.0002 C11,10.6552 9.654,12.0002 8,12.0002 L8,12.0002 Z M3,9.0002 C3,11.7572 5.243,14.0002 8,14.0002 C10.757,14.0002 13,11.7572 13,9.0002 L13,8.2372 L15.41,3.4162 L8,0.9462 L0.59,3.4162 L3,8.2372 L3,9.0002 Z" id="Fill-308"></path>
+                <path d="M8,6.0005 C8.553,6.0005 9,5.5535 9,5.0005 C9,4.4475 8.553,4.0005 8,4.0005 C7.447,4.0005 7,4.4475 7,5.0005 C7,5.5535 7.447,6.0005 8,6.0005" id="Fill-309"></path>
+                <path d="M9,21.0005 L9,17.0515 C11.988,17.3335 14,18.8755 14,21.0005 L9,21.0005 Z M7,17.0515 L7,21.0005 L2,21.0005 C2,18.8755 4.012,17.3335 7,17.0515 L7,17.0515 Z M8,15.0005 C3.29,15.0005 0,17.4675 0,21.0005 L0,23.0005 L16,23.0005 L16,21.0005 C16,17.4675 12.71,15.0005 8,15.0005 L8,15.0005 Z" id="Fill-310"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 616 + Fill 617 + Fill 618</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-387.000000, -1106.000000)" fill="#767676">
+            <g id="Fill-616-+-Fill-617-+-Fill-618" transform="translate(386.000000, 1106.000000)">
+                <path d="M0.999,10.0005 C0.999,11.1045 1.895,12.0005 2.999,12.0005 C4.103,12.0005 4.999,11.1045 4.999,10.0005 C4.999,8.5005 2.999,6.0005 2.999,6.0005 C2.999,6.0005 0.999,8.5005 0.999,10.0005" id="Fill-616"></path>
+                <polygon id="Fill-617" points="15.999 2.0005 15.999 0.0005 6.585 0.0005 4.292 2.2935 5.706 3.7075 7.413 2.0005"></polygon>
+                <path d="M14.999,13 L8.999,13 L8.999,10 L14.999,10 L14.999,13 Z M12.999,5.101 L12.999,3 L10.999,3 L10.999,5.101 C8.717,5.565 6.999,7.582 6.999,10 L6.999,18 C6.999,18.553 7.447,19 7.999,19 L15.999,19 C16.551,19 16.999,18.553 16.999,18 L16.999,10 C16.999,7.582 15.281,5.565 12.999,5.101 L12.999,5.101 Z" id="Fill-618"></path>
+            </g>
+        </g>
+    </g>
+</svg>

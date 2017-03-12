@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 515 + Fill 516</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-386.000000, -675.000000)" fill="#757575">
+            <g id="Fill-515-+-Fill-516" transform="translate(386.000000, 675.000000)">
+                <path d="M5.521,11.0005 L2,11.0005 L2,7.0005 L5.521,7.0005 L9,2.0275 L9.001,15.9765 L5.521,11.0005 Z M9.764,0.1525 C9.025,-0.1525 8.149,0.0215 7.586,0.5865 L4.479,5.0005 L2,5.0005 C0.897,5.0005 0,5.8985 0,7.0005 L0,11.0005 C0,12.1035 0.897,13.0005 2,13.0005 L4.479,13.0005 L7.474,17.2805 C7.89,17.7765 8.433,18.0005 9,18.0005 C9.263,18.0005 9.521,17.9495 9.764,17.8495 C10.515,17.5405 11,16.8125 11,16.0005 L11,2.0005 C11,1.1875 10.515,0.4625 9.764,0.1525 L9.764,0.1525 Z" id="Fill-515"></path>
+                <polygon id="Fill-516" points="21 8.0005 18 8.0005 18 5.0005 16 5.0005 16 8.0005 13 8.0005 13 10.0005 16 10.0005 16 13.0005 18 13.0005 18 10.0005 21 10.0005"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

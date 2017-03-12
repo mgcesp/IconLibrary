@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_playlist_add_check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 24 0 24"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AV" transform="translate(-242.000000, -246.000000)">
+            <g id="ic_playlist_add_check" transform="translate(240.000000, 240.000000)">
+                <g id="Icon-24px">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="a"></g>
+                    <path d="M14,10 L2,10 L2,12 L14,12 L14,10 L14,10 Z M14,6 L2,6 L2,8 L14,8 L14,6 L14,6 Z M2,16 L10,16 L10,14 L2,14 L2,16 L2,16 Z M21.5,11.5 L23,13 L16.01,20 L11.5,15.5 L13,14 L16.01,17 L21.5,11.5 L21.5,11.5 Z" id="Shape" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

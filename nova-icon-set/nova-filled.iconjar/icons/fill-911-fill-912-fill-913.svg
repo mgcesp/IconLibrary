@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 911 + Fill 912 + Fill 913</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-388.000000, -1346.000000)" fill="#767676">
+            <g id="Fill-911-+-Fill-912-+-Fill-913" transform="translate(388.000000, 1346.000000)">
+                <path d="M7,4.0005 L8,4.0005 L8,2.0005 L7.163,2.0005 L1.316,0.0515 L0.684,1.9495 L3.564,2.9095 C1.439,4.1125 0,6.3905 0,9.0005 L0,16.0005 L2,16.0005 L2,9.0005 C2,6.2435 4.243,4.0005 7,4.0005" id="Fill-911"></path>
+                <path d="M15.6338,0.2271 C15.4018,0.0371 15.0978,-0.0399 14.8038,0.0201 L9.8038,1.0201 C9.3368,1.1131 8.9998,1.5241 8.9998,2.0001 L8.9998,4.0001 C8.9998,4.4771 9.3368,4.8881 9.8038,4.9811 L14.8038,5.9811 C15.0878,6.0381 15.3958,5.9691 15.6338,5.7741 C15.8658,5.5841 15.9998,5.3001 15.9998,5.0001 L15.9998,1.0001 C15.9998,0.7011 15.8658,0.4171 15.6338,0.2271" id="Fill-912"></path>
+                <path d="M10,16 L7,16 L7,10 L10,10 L10,16 Z M7,5 C4.794,5 3,6.795 3,9 L3,19 C3,19.552 3.448,20 4,20 L10,20 C10.552,20 11,19.552 11,19 L11,9 C11,6.795 9.206,5 7,5 L7,5 Z" id="Fill-913"></path>
+            </g>
+        </g>
+    </g>
+</svg>

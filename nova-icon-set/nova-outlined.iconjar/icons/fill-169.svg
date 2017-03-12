@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 169</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-290.000000, -529.000000)" fill="#757575">
+            <g id="Fill-169" transform="translate(290.000000, 529.000000)">
+                <path d="M18,18 L16,18 L16,16 L18,16 L18,18 Z M6,16 L6,15.667 C6,14.932 5.518,14.313 4.856,14.093 L10,6.744 L15.144,14.093 C14.482,14.313 14,14.932 14,15.667 L14,16 L6,16 Z M4,18 L2,18 L2,16 L4,16 L4,18 Z M9,2 L11,2 L11,4 L9,4 L9,2 Z M18.333,14 L17.521,14 L11.856,5.908 C12.518,5.687 13,5.069 13,4.334 L13,1.667 C13,0.748 12.252,0 11.333,0 L8.667,0 C7.748,0 7,0.748 7,1.667 L7,4.334 C7,5.069 7.482,5.687 8.144,5.908 L2.479,14 L1.667,14 C0.748,14 0,14.748 0,15.667 L0,18.334 C0,19.253 0.748,20 1.667,20 L4.333,20 C5.252,20 6,19.253 6,18.334 L6,18 L14,18 L14,18.334 C14,19.253 14.748,20 15.667,20 L18.333,20 C19.252,20 20,19.253 20,18.334 L20,15.667 C20,14.748 19.252,14 18.333,14 L18.333,14 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

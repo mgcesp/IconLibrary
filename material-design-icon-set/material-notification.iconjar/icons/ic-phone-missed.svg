@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_phone_missed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notification" transform="translate(-288.000000, -195.000000)">
+            <g id="ic_phone_missed" transform="translate(288.000000, 192.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M6.5,5.5 L12,11 L19,4 L18,3 L12,9 L7.5,4.5 L11,4.5 L11,3 L5,3 L5,9 L6.5,9 L6.5,5.5 L6.5,5.5 Z M23.71,16.67 C20.66,13.78 16.54,12 12,12 C7.46,12 3.34,13.78 0.29,16.67 C0.11,16.85 0,17.1 0,17.38 C0,17.66 0.11,17.91 0.29,18.09 L2.77,20.57 C2.95,20.75 3.2,20.86 3.48,20.86 C3.75,20.86 4,20.75 4.18,20.58 C4.97,19.84 5.87,19.22 6.84,18.73 C7.17,18.57 7.4,18.23 7.4,17.83 L7.4,14.73 C8.85,14.25 10.4,14 12,14 C13.6,14 15.15,14.25 16.6,14.72 L16.6,17.82 C16.6,18.21 16.83,18.56 17.16,18.72 C18.14,19.21 19.03,19.84 19.83,20.57 C20.01,20.75 20.26,20.85 20.53,20.85 C20.81,20.85 21.06,20.74 21.24,20.56 L23.72,18.08 C23.9,17.9 24.01,17.65 24.01,17.37 C24.01,17.09 23.89,16.85 23.71,16.67 L23.71,16.67 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

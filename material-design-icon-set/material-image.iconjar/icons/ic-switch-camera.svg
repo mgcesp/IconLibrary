@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_switch_camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image" transform="translate(-434.000000, -722.000000)">
+            <g id="ic_switch_camera" transform="translate(432.000000, 720.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M20,4 L16.83,4 L15,2 L9,2 L7.17,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 L20,4 Z M15,15.5 L15,13 L9,13 L9,15.5 L5.5,12 L9,8.5 L9,11 L15,11 L15,8.5 L18.5,12 L15,15.5 L15,15.5 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

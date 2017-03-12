@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 42</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-144.000000, -53.000000)" fill="#757575">
+            <g id="Fill-42" transform="translate(144.000000, 53.000000)">
+                <path d="M7,4.0005 C8.657,4.0005 10,5.3435 10,7.0005 C10,8.6575 8.657,10.0005 7,10.0005 C5.343,10.0005 4,8.6575 4,7.0005 C4,5.3435 5.343,4.0005 7,4.0005 M7,14.0005 L17,14.0005 C20.86,14.0005 24,10.8605 24,7.0005 C24,3.1405 20.86,0.0005 17,0.0005 L7,0.0005 C3.14,0.0005 0,3.1405 0,7.0005 C0,10.8605 3.14,14.0005 7,14.0005"></path>
+            </g>
+        </g>
+    </g>
+</svg>

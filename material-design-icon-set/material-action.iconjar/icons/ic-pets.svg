@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_pets</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action" transform="translate(-146.000000, -675.000000)">
+            <g id="ic_pets" transform="translate(144.000000, 672.000000)">
+                <g id="Icon-24px">
+                    <circle id="Oval" fill="#000000" cx="4.5" cy="9.5" r="2.5"></circle>
+                    <circle id="Oval" fill="#000000" cx="9" cy="5.5" r="2.5"></circle>
+                    <circle id="Oval" fill="#000000" cx="15" cy="5.5" r="2.5"></circle>
+                    <circle id="Oval" fill="#000000" cx="19.5" cy="9.5" r="2.5"></circle>
+                    <path d="M17.34,14.86 C16.47,13.84 15.74,12.97 14.86,11.95 C14.4,11.41 13.81,10.87 13.11,10.63 C13,10.59 12.89,10.56 12.78,10.54 C12.53,10.5 12.26,10.5 12,10.5 C11.74,10.5 11.47,10.5 11.21,10.55 C11.1,10.57 10.99,10.6 10.88,10.64 C10.18,10.88 9.6,11.42 9.13,11.96 C8.26,12.98 7.53,13.85 6.65,14.87 C5.34,16.18 3.73,17.63 4.03,19.66 C4.32,20.68 5.05,21.69 6.36,21.98 C7.09,22.13 9.42,21.54 11.9,21.54 L12.08,21.54 C14.56,21.54 16.89,22.12 17.62,21.98 C18.93,21.69 19.66,20.67 19.95,19.66 C20.26,17.62 18.65,16.17 17.34,14.86 L17.34,14.86 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

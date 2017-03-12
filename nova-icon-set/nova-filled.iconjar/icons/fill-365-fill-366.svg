@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 365 + Fill 366</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-292.000000, -676.000000)" fill="#767676">
+            <g id="Fill-365-+-Fill-366" transform="translate(292.000000, 676.000000)">
+                <path d="M9.3828,0.082 C9.0088,-0.073 8.5788,0.012 8.2928,0.299 L3.9998,5.005 L0.9998,5.005 C0.4498,5.005 -0.0002,5.455 -0.0002,6.005 L-0.0002,12.005 C-0.0002,12.555 0.4498,13.005 0.9998,13.005 L3.9998,13.005 L8.2928,17.712 C8.5788,17.998 9.0088,18.083 9.3828,17.929 C9.7568,17.774 9.9998,17.41 9.9998,17.005 L9.9998,1.005 C9.9998,0.601 9.7568,0.235 9.3828,0.082" id="Fill-365"></path>
+                <path d="M12,6.0054 L12,8.0054 C12.551,8.0054 13,8.4544 13,9.0054 C13,9.5564 12.551,10.0054 12,10.0054 L12,12.0054 C13.654,12.0054 15,10.6594 15,9.0054 C15,7.3504 13.654,6.0054 12,6.0054" id="Fill-366"></path>
+            </g>
+        </g>
+    </g>
+</svg>

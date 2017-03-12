@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 921 + Fill 922 + Fill 923</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-194.000000, -1250.000000)" fill="#757575">
+            <g id="Fill-921-+-Fill-922-+-Fill-923" transform="translate(194.000000, 1250.000000)">
+                <path d="M2,11 L5,11 L5,14 L2,14 L2,11 Z M8,11 L11,11 L11,14 L8,14 L8,11 Z M14,11 L17,11 L17,14 L14,14 L14,11 Z M6,18 C6,17.634 5.895,17.295 5.723,17 L13.277,17 C13.105,17.295 13,17.634 13,18 C13,19.105 13.895,20 15,20 C16.104,20 17,19.105 17,18 C17,17.634 16.895,17.295 16.723,17 L18,17 C18.552,17 19,16.553 19,16 L19,10 C19,9.448 18.552,9 18,9 L1,9 C0.448,9 0,9.448 0,10 L0,16 C0,16.553 0.448,17 1,17 L2.277,17 C2.105,17.295 2,17.634 2,18 C2,19.105 2.895,20 4,20 C5.105,20 6,19.105 6,18 L6,18 Z" id="Fill-921"></path>
+                <polygon id="Fill-922" points="0 22 20 22 20 20 0 20"></polygon>
+                <polygon id="Fill-923" points="16 6.0005 11.234 6.0005 9.901 4.0005 11.234 2.0005 13 2.0005 13 0.0005 7 0.0005 7 2.0005 9.432 2.0005 8.099 4.0005 9.432 6.0005 4 6.0005 4 8.0005 16 8.0005"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

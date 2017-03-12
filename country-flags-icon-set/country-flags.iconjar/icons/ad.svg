@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>AD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <path d="M12.0550432,8.66051865 C12.0246437,8.29572427 12.3006501,8 12.6605186,8 L15.3394814,8 C15.7042757,8 15.9760275,8.28767014 15.9449568,8.66051865 L15.7776618,10.6680579 C15.7163609,11.4036692 15.0707335,12 14.330079,12 L13.669921,12 C12.931744,12 12.2841489,11.4097862 12.2223382,10.6680579 L12.0550432,8.66051865 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="3.8946236" height="4" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-172.000000, -28.000000)">
+            <g id="AD" transform="translate(172.000000, 28.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Mask-Copy" fill="#1537D1" mask="url(#mask-2)" x="0" y="0" width="28" height="20"></rect>
+                <rect id="Mask" fill="#EA3058" mask="url(#mask-2)" x="13.3333333" y="0" width="14.6666667" height="20"></rect>
+                <rect id="Rectangle-2" fill="#FFCF3C" mask="url(#mask-2)" x="9.33333333" y="0" width="9.33333333" height="20"></rect>
+                <polygon id="Rectangle-139-Copy" fill="#FFEDB1" mask="url(#mask-2)" points="12.6666667 8.66666667 14 8.66666667 14 9.33333333 12.6666667 9.33333333"></polygon>
+                <g id="Rectangle-137" mask="url(#mask-2)" stroke-width="1.33333333" stroke="#D32E28">
+                    <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+                <polygon id="Rectangle-139" fill="#D32E28" mask="url(#mask-2)" points="12.6666667 9.33333333 15.3333333 9.33333333 15.3333333 10 14.6666667 10 13.3333333 10 12.6666667 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

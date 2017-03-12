@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 68 + Fill 69 + Fill 70</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-194.000000, -96.000000)" fill="#757575">
+            <g id="Fill-68-+-Fill-69-+-Fill-70" transform="translate(194.000000, 96.000000)">
+                <polygon id="Fill-68" points="14.707 5.2935 10 0.5865 5.293 5.2935 6.707 6.7075 9 4.4145 9 9.0005 11 9.0005 11 4.4145 13.293 6.7075"></polygon>
+                <path d="M10,16.8237 L18.965,11.2597 C18.678,11.0997 18.352,11.0007 18,11.0007 L2,11.0007 C1.648,11.0007 1.322,11.0997 1.035,11.2597 L10,16.8237 Z" id="Fill-69"></path>
+                <path d="M10.5273,18.8501 C10.3653,18.9501 10.1833,19.0001 10.0003,19.0001 C9.8173,19.0001 9.6343,18.9501 9.4723,18.8501 L0.0033,12.9741 C0.0033,12.9831 0.0003,12.9921 0.0003,13.0001 L0.0003,22.0001 C0.0003,23.1031 0.8973,24.0001 2.0003,24.0001 L18.0003,24.0001 C19.1033,24.0001 20.0003,23.1031 20.0003,22.0001 L20.0003,13.0001 C20.0003,12.9921 19.9973,12.9831 19.9973,12.9741 L10.5273,18.8501 Z" id="Fill-70"></path>
+            </g>
+        </g>
+    </g>
+</svg>

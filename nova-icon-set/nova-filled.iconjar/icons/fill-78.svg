@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 78</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-386.000000, -99.000000)" fill="#757575">
+            <g id="Fill-78" transform="translate(386.000000, 99.000000)">
+                <path d="M17,10 L11,10 L11,8 L17,8 L17,10 Z M17,14 L11,14 L11,12 L17,12 L17,14 Z M10,4 C9.449,4 9,3.552 9,3 C9,2.45 9.449,2 10,2 C10.551,2 11,2.45 11,3 C11,3.552 10.551,4 10,4 L10,4 Z M3,14 C3,12.16 4.159,11 6,11 C7.841,11 9,12.16 9,14 L3,14 Z M6,6 C7.104,6 8,6.896 8,8 C8,9.105 7.104,10 6,10 C4.896,10 4,9.105 4,8 C4,6.896 4.896,6 6,6 L6,6 Z M18,2 L12.815,2 C12.401,0.839 11.302,0 10,0 C8.698,0 7.599,0.839 7.185,2 L2,2 C0.897,2 0,2.897 0,4 L0,16 C0,17.103 0.897,18 2,18 L18,18 C19.103,18 20,17.103 20,16 L20,4 C20,2.897 19.103,2 18,2 L18,2 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

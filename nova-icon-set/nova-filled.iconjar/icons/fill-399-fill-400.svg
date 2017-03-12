@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 399 + Fill 400</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-50.000000, -818.000000)" fill="#767676">
+            <g id="Fill-399-+-Fill-400" transform="translate(50.000000, 818.000000)">
+                <path d="M11,12.5005 C12.381,12.5005 13.5,11.3825 13.5,10.0005 C13.5,8.6215 12.381,7.5005 11,7.5005 C9.62,7.5005 8.5,8.6215 8.5,10.0005 C8.5,11.3825 9.62,12.5005 11,12.5005" id="Fill-399"></path>
+                <path d="M17,17.0005 L4,17.0005 L4,14.0005 L2,14.0005 L2,12.0005 L4,12.0005 L4,8.0005 L2,8.0005 L2,6.0005 L4,6.0005 L4,3.0005 L17,3.0005 L17,17.0005 Z M18,0.0005 L2,0.0005 C0.898,0.0005 0,0.8975 0,2.0005 L0,18.0005 C0,19.1045 0.898,20.0005 2,20.0005 L2,21.0005 L4,21.0005 L4,20.0005 L16,20.0005 L16,21.0005 L18,21.0005 L18,20.0005 C19.104,20.0005 20,19.1045 20,18.0005 L20,2.0005 C20,0.8975 19.104,0.0005 18,0.0005 L18,0.0005 Z" id="Fill-400"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 604 + Fill 605</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-342.000000, -1059.000000)" fill="#767676">
+            <g id="Fill-604-+-Fill-605" transform="translate(342.000000, 1059.000000)">
+                <polygon id="Fill-604" points="5 5.0005 7 5.0005 7 2.0005 10 2.0005 10 0.0005 2 0.0005 2 2.0005 5 2.0005"></polygon>
+                <path d="M10,10.0005 L10,12.0005 L9,12.0005 L9,10.0005 L2,10.0005 L2,9.0005 L10,9.0005 L10,10.0005 Z M10,6.0005 L2,6.0005 C0.896,6.0005 0,6.8965 0,8.0005 L0,17.0005 C0,18.1045 0.896,19.0005 2,19.0005 L2,20.0005 L4,20.0005 L4,19.0005 L8,19.0005 L8,20.0005 L10,20.0005 L10,19.0005 C11.104,19.0005 12,18.1045 12,17.0005 L12,8.0005 C12,6.8965 11.104,6.0005 10,6.0005 L10,6.0005 Z" id="Fill-605"></path>
+            </g>
+        </g>
+    </g>
+</svg>

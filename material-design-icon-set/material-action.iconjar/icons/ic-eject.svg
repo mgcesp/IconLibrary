@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_eject</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action" transform="translate(-389.000000, -293.000000)">
+            <g id="ic_eject" transform="translate(384.000000, 288.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 24 0 0 24 0 24 24"></polygon>
+                    <path d="M5,17 L19,17 L19,19 L5,19 L5,17 Z M12,5 L5.33,15 L18.67,15 L12,5 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

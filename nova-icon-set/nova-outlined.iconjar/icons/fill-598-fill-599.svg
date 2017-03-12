@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 598 + Fill 599</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-244.000000, -961.000000)" fill="#767676">
+            <g id="Fill-598-+-Fill-599" transform="translate(244.000000, 961.000000)">
+                <path d="M8,17.655 C5.87,15.658 2,11.339 2,8 C2,4.692 4.691,2 8,2 C11.309,2 14,4.692 14,8 C14,11.339 10.13,15.658 8,17.655 M8,0 C3.589,0 0,3.589 0,8 C0,12.411 4.644,17.441 8,20.319 C11.353,17.443 16,12.412 16,8 C16,3.589 12.411,0 8,0" id="Fill-598"></path>
+                <polygon id="Fill-599" points="4 9 12 9 12 7 4 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

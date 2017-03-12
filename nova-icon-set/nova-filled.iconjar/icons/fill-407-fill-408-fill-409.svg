@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 407 + Fill 408 + Fill 409</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-194.000000, -818.000000)" fill="#767676">
+            <g id="Fill-407-+-Fill-408-+-Fill-409" transform="translate(194.000000, 818.000000)">
+                <polygon id="Fill-407" points="6.585 15.0005 1.586 19.9995 4.414 19.9995 9 15.4145 9 19.9995 11 19.9995 11 15.4145 15.586 19.9995 18.414 19.9995 13.415 15.0005"></polygon>
+                <path d="M18,0.0005 L2,0.0005 C0.897,0.0005 0,0.8965 0,2.0005 L0,3.0015 L20,3.0015 L20,2.0005 C20,0.8965 19.103,0.0005 18,0.0005" id="Fill-408"></path>
+                <path d="M0,12.0005 C0,13.1035 0.897,14.0005 2,14.0005 L18,14.0005 C19.103,14.0005 20,13.1035 20,12.0005 L20,4.0015 L0,4.0015 L0,12.0005 Z" id="Fill-409"></path>
+            </g>
+        </g>
+    </g>
+</svg>

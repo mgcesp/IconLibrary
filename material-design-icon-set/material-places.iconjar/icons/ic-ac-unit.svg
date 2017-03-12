@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_ac_unit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Places" transform="translate(-50.000000, -50.000000)">
+            <g id="ic_ac_unit" transform="translate(48.000000, 48.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" fill="#000000" points="22 11 17.83 11 21.07 7.76 19.66 6.34 15 11 13 11 13 9 17.66 4.34 16.24 2.93 13 6.17 13 2 11 2 11 6.17 7.76 2.93 6.34 4.34 11 9 11 11 9 11 4.34 6.34 2.93 7.76 6.17 11 2 11 2 13 6.17 13 2.93 16.24 4.34 17.66 9 13 11 13 11 15 6.34 19.66 7.76 21.07 11 17.83 11 22 13 22 13 17.83 16.24 21.07 17.66 19.66 13 15 13 13 15 13 19.66 17.66 21.07 16.24 17.83 13 22 13"></polygon>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

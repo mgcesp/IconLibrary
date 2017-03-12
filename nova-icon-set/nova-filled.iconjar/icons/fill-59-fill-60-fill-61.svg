@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 59 + Fill 60 + Fill 61</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-290.000000, -98.000000)" fill="#757575">
+            <g id="Fill-59-+-Fill-60-+-Fill-61" transform="translate(290.000000, 98.000000)">
+                <polygon id="Fill-59" points="4 9.1343 4 2.0003 16 2.0003 16 9.1343 18 7.9913 18 0.0003 2 0.0003 2 7.9913"></polygon>
+                <path d="M13.2656,13.0005 L6.7346,13.0005 L-0.0004,9.1525 L-0.0004,18.0005 C-0.0004,19.1045 0.8956,20.0005 1.9996,20.0005 L17.9996,20.0005 C19.1036,20.0005 19.9996,19.1045 19.9996,18.0005 L19.9996,9.1525 L13.2656,13.0005 Z" id="Fill-60"></path>
+                <path d="M10,11.0005 C10,11.0005 14,8.0915 14,5.9365 C14,3.8905 10.889,3.0005 10,5.6885 C9.111,3.0005 6,3.8905 6,5.9365 C6,8.0915 10,11.0005 10,11.0005" id="Fill-61"></path>
+            </g>
+        </g>
+    </g>
+</svg>

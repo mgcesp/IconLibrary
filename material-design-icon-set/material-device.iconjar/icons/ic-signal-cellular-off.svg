@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_signal_cellular_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Device" transform="translate(-337.000000, -241.000000)">
+            <g id="ic_signal_cellular_off" transform="translate(336.000000, 240.000000)">
+                <g id="Icon-24px">
+                    <path d="M21,1 L12.41,9.59 L21,18.18 L21,1 L21,1 Z M4.77,4.5 L3.5,5.77 L9.86,12.13 L1,21 L18.73,21 L20.73,23 L22,21.73 L4.77,4.5 L4.77,4.5 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

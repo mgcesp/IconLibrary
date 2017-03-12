@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>IL</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-5" points="10.223291 10.5414519 16.1100425 7.01196613 15.9967938 13.8747852"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.666666667" y="-0.666666667" width="7.22008483" height="8.19615239">
+            <rect x="9.55662433" y="6.34529946" width="7.22008483" height="8.19615239" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <polygon id="path-7" points="10.2232911 9.65470021 16.1100422 6.1252145 15.9967938 12.9880339"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.666666667" y="-0.666666667" width="7.22008451" height="8.19615269">
+            <rect x="9.55662438" y="5.45854784" width="7.22008451" height="8.19615269" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-316.000000, -412.000000)">
+            <g id="IL" transform="translate(316.000000, 412.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-2)" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#0E46D4" mask="url(#mask-3)" x="0" y="0" width="28" height="4"></rect>
+                <rect id="Rectangle-2" fill="#0E46D4" mask="url(#mask-3)" x="0" y="16" width="28" height="4"></rect>
+                <g id="Star-25" mask="url(#mask-3)" transform="translate(13.166667, 10.443376) rotate(-30.000000) translate(-13.166667, -10.443376) " stroke-width="1.33333333" stroke="#093EC5">
+                    <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Star-25-Copy" mask="url(#mask-3)" transform="translate(13.166667, 9.556624) scale(1, -1) rotate(-30.000000) translate(-13.166667, -9.556624) " stroke-width="1.33333333" stroke="#093EC5">
+                    <use mask="url(#mask-8)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

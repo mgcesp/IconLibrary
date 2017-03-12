@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 354 + Fill 355</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-242.000000, -241.000000)" fill="#757575">
+            <g id="Fill-354-+-Fill-355" transform="translate(242.000000, 241.000000)">
+                <path d="M6,11.2866 L6,6.0006 L11.286,6.0006 L13.286,4.0006 L6,4.0006 L6,2.0006 L14,2.0006 L14,3.2866 L15.895,1.3916 C15.636,0.5876 14.89,0.0006 14,0.0006 L6,0.0006 C4.897,0.0006 4,0.8976 4,2.0006 L4,13.2866 L6,11.2866 Z" id="Fill-354"></path>
+                <path d="M6,18.0005 L6,16.9435 L6.943,16.0005 L14.001,16.0005 L14.001,18.0005 L6,18.0005 Z M14,8.9435 L14.001,14.0005 L8.943,14.0005 L14,8.9435 Z M19.293,0.8235 L0.822,19.2935 L2.236,20.7075 L4.16,18.7835 C4.466,19.4985 5.175,20.0005 6,20.0005 L14,20.0005 C15.103,20.0005 16,19.1035 16,18.0005 L16,6.9435 L20.707,2.2365 L19.293,0.8235 Z" id="Fill-355"></path>
+            </g>
+        </g>
+    </g>
+</svg>

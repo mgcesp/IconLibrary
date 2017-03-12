@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="23px" viewBox="0 0 18 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 879 + Fill 880</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-147.000000, -1631.000000)" fill="#757575">
+            <g id="Fill-879-+-Fill-880" transform="translate(147.000000, 1631.000000)">
+                <polygon id="Fill-879" points="10 11.0005 8 11.0005 8 14.0005 5 14.0005 5 16.0005 8 16.0005 8 19.0005 10 19.0005 10 16.0005 13 16.0005 13 14.0005 10 14.0005"></polygon>
+                <path d="M16,21.0005 L2,21.0005 L2,7.0005 L4,7.0005 L4,9.0005 L14,9.0005 L14,7.0005 L16,7.0005 L16,21.0005 Z M6,5.0005 L12,5.0005 L12,7.0005 L6,7.0005 L6,5.0005 Z M9,2.0005 C9.739,2.0005 10.385,2.4025 10.731,3.0005 L7.269,3.0005 C7.615,2.4025 8.261,2.0005 9,2.0005 L9,2.0005 Z M16,5.0005 L14,5.0005 L14,3.0005 L12.858,3.0005 C12.411,1.2805 10.858,0.0005 9,0.0005 C7.142,0.0005 5.589,1.2805 5.142,3.0005 L4,3.0005 L4,5.0005 L2,5.0005 C0.897,5.0005 0,5.8975 0,7.0005 L0,21.0005 C0,22.1025 0.897,23.0005 2,23.0005 L16,23.0005 C17.103,23.0005 18,22.1025 18,21.0005 L18,7.0005 C18,5.8975 17.103,5.0005 16,5.0005 L16,5.0005 Z" id="Fill-880"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_photo_camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image" transform="translate(-145.000000, -674.000000)">
+            <g id="ic_photo_camera" transform="translate(144.000000, 672.000000)">
+                <g id="Icon-24px">
+                    <ellipse id="Oval" fill="#000000" cx="11.5" cy="12" rx="3.06666667" ry="3.2"></ellipse>
+                    <path d="M8.625,2 L6.87125,4 L3.83333333,4 C2.77916667,4 1.91666667,4.9 1.91666667,6 L1.91666667,18 C1.91666667,19.1 2.77916667,20 3.83333333,20 L19.1666667,20 C20.2208333,20 21.0833333,19.1 21.0833333,18 L21.0833333,6 C21.0833333,4.9 20.2208333,4 19.1666667,4 L16.12875,4 L14.375,2 L8.625,2 L8.625,2 Z M11.5,17 C8.855,17 6.70833333,14.76 6.70833333,12 C6.70833333,9.24 8.855,7 11.5,7 C14.145,7 16.2916667,9.24 16.2916667,12 C16.2916667,14.76 14.145,17 11.5,17 L11.5,17 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" points="0 0 23 0 23 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

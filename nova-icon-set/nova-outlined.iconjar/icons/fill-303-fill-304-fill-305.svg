@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 303 + Fill 304 + Fill 305</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-340.000000, -148.000000)" fill="#757575">
+            <g id="Fill-303-+-Fill-304-+-Fill-305" transform="translate(340.000000, 148.000000)">
+                <path d="M8,10.0005 C5.243,10.0005 3,7.7575 3,5.0005 C3,2.2435 5.243,0.0005 8,0.0005 C10.757,0.0005 13,2.2435 13,5.0005 L11,5.0005 C11,3.3465 9.654,2.0005 8,2.0005 C6.346,2.0005 5,3.3465 5,5.0005 C5,6.6545 6.346,8.0005 8,8.0005 L8,10.0005 Z" id="Fill-303"></path>
+                <path d="M12,10.0005 L9,10.0005 L9,6.0005 L13,6.0005 L13,7.8295 C14.164,7.4165 15,6.3045 15,5.0005 L15,3.0005 L17,3.0005 L17,5.0005 C17,7.7575 14.757,10.0005 12,10.0005" id="Fill-304"></path>
+                <path d="M2,17.0005 L14,17.0005 C14,14.6455 11.533,13.0005 8,13.0005 C4.467,13.0005 2,14.6455 2,17.0005 L2,17.0005 Z M16,19.0005 L0,19.0005 L0,17.0005 C0,13.4675 3.29,11.0005 8,11.0005 C12.71,11.0005 16,13.4675 16,17.0005 L16,19.0005 Z" id="Fill-305"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 126 + Fill 127</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-340.000000, -913.000000)" fill="#757575">
+            <g id="Fill-126-+-Fill-127" transform="translate(340.000000, 913.000000)">
+                <path d="M11,15 L5,15 L5,10 L11,10 L11,15 Z M15,8 L1,8 C0.448,8 0,8.448 0,9 L0,16 L2,16 L2,10 L3,10 L3,16 C3,16.552 3.448,17 4,17 L5,17 L5,20 L7,20 L7,17 L9,17 L9,20 L11,20 L11,17 L12,17 C12.552,17 13,16.552 13,16 L13,10 L14,10 L14,16 L16,16 L16,9 C16,8.448 15.552,8 15,8 L15,8 Z" id="Fill-126"></path>
+                <path d="M8,3.0005 C9.304,3.0005 10.416,3.8365 10.829,5.0005 L5.171,5.0005 C5.584,3.8365 6.696,3.0005 8,3.0005 M3,6.0005 C3,6.5525 3.448,7.0005 4,7.0005 L12,7.0005 C12.552,7.0005 13,6.5525 13,6.0005 C13,4.9825 12.691,4.0385 12.167,3.2475 L13.707,1.7075 L12.293,0.2935 L10.753,1.8335 C9.962,1.3105 9.018,1.0005 8,1.0005 C6.982,1.0005 6.038,1.3105 5.247,1.8335 L3.707,0.2935 L2.293,1.7075 L3.833,3.2475 C3.309,4.0385 3,4.9825 3,6.0005" id="Fill-127"></path>
+            </g>
+        </g>
+    </g>
+</svg>

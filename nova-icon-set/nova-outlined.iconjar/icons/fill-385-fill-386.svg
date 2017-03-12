@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 385 + Fill 386</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-49.000000, -336.000000)" fill="#757575">
+            <g id="Fill-385-+-Fill-386" transform="translate(49.000000, 336.000000)">
+                <path d="M11,20.0005 C6.038,20.0005 2,15.9635 2,11.0005 C2,6.0375 6.038,2.0005 11,2.0005 C15.962,2.0005 20,6.0375 20,11.0005 C20,15.9635 15.962,20.0005 11,20.0005 M11,0.0005 C4.935,0.0005 0,4.9355 0,11.0005 C0,17.0665 4.935,22.0005 11,22.0005 C17.065,22.0005 22,17.0665 22,11.0005 C22,4.9355 17.065,0.0005 11,0.0005" id="Fill-385"></path>
+                <path d="M13,4.5864 L11.586,6.0004 L13.586,8.0004 L9,8.0004 C6.794,8.0004 5,9.7944 5,12.0004 C5,14.2064 6.794,16.0004 9,16.0004 L10,16.0004 L10,14.0004 L9,14.0004 C7.897,14.0004 7,13.1034 7,12.0004 C7,10.8984 7.897,10.0004 9,10.0004 L13.586,10.0004 L11.586,12.0004 L13,13.4144 L17.414,9.0004 L13,4.5864 Z" id="Fill-386"></path>
+            </g>
+        </g>
+    </g>
+</svg>

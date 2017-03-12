@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 758 + Fill 759</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-247.000000, -1346.000000)" fill="#B4B4B4">
+            <g id="Fill-758-+-Fill-759" transform="translate(246.000000, 1346.000000)">
+                <path d="M5.999,18.0005 C3.644,18.0005 2.999,17.5695 2.999,16.0005 C2.999,14.4675 4.83,12.4275 5.999,11.3325 C7.168,12.4275 8.999,14.4675 8.999,16.0005 C8.999,17.5695 8.354,18.0005 5.999,18.0005 M7.459,9.9545 L9.706,7.7075 L8.292,6.2935 C4.21,10.3755 0.999,12.8475 0.999,16.0005 C0.999,20.0005 4.503,20.0005 5.999,20.0005 C7.495,20.0005 10.999,20.0005 10.999,16.0005 C10.999,13.6135 8.744,11.1595 7.459,9.9545" id="Fill-758"></path>
+                <polygon id="Fill-759" points="3.7061 9.707 9.7061 3.707 8.2921 2.293 6.9991 3.586 6.9991 0 4.9991 0 4.9991 5.586 2.2921 8.293"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

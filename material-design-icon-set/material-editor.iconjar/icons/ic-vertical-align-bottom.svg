@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_vertical_align_bottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Editor" transform="translate(-196.000000, -339.000000)">
+            <g id="ic_vertical_align_bottom" transform="translate(192.000000, 336.000000)">
+                <g id="Icon-24px">
+                    <path d="M16,13 L13,13 L13,3 L11,3 L11,13 L8,13 L12,17 L16,13 L16,13 Z M4,19 L4,21 L20,21 L20,19 L4,19 L4,19 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

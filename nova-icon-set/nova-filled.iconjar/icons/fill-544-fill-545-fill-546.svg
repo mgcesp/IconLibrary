@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 544 + Fill 545 + Fill 546</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-48.000000, -1060.000000)" fill="#767676">
+            <g id="Fill-544-+-Fill-545-+-Fill-546" transform="translate(48.000000, 1060.000000)">
+                <path d="M10.001,3.5022 C10.001,1.5682 8.435,0.0022 6.501,0.0022 C4.568,0.0022 3.001,1.5682 3.001,3.5022 L3.001,6.0022 L10.001,6.0022 L10.001,3.5022 Z" id="Fill-544"></path>
+                <polygon id="Fill-545" points="10.001 7.002 3.001 7.002 3.001 11.002 10.001 11.002"></polygon>
+                <path d="M15.001,12.002 L19.001,12.002 L19.001,16.002 L15.001,16.002 L15.001,12.002 Z M22.001,16.002 L22.001,9.569 C22.001,9.217 21.816,8.892 21.516,8.711 L17.516,6.311 C17.199,6.121 16.803,6.121 16.486,6.311 L12.486,8.711 C12.186,8.892 12.001,9.217 12.001,9.569 L12.001,16.002 L10.001,16.002 L10.001,12.002 L3.001,12.002 L3.001,16.002 L0.001,16.002 L0.001,18.002 L24.001,18.002 L24.001,16.002 L22.001,16.002 Z" id="Fill-546"></path>
+            </g>
+        </g>
+    </g>
+</svg>

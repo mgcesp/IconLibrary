@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 327 + Fill 328 + Fill 329</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-241.000000, -578.000000)" fill="#767676">
+            <g id="Fill-327-+-Fill-328-+-Fill-329" transform="translate(241.000000, 578.000000)">
+                <path d="M10,9.0039 L11.859,6.0209 L13.005,7.8599 L15.646,3.6229 L19,9.0039 L10,9.0039 Z M19,0.0039 L10,0.0039 C8.896,0.0039 8,0.8999 8,2.0039 L8,10.0039 C8,11.1079 8.896,12.0039 10,12.0039 L19,12.0039 C20.104,12.0039 21,11.1079 21,10.0039 L21,2.0039 C21,0.8999 20.104,0.0039 19,0.0039 L19,0.0039 Z" id="Fill-327"></path>
+                <path d="M6,3.0039 L4,3.0039 L4,14.0039 C4,15.1069 4.897,16.0039 6,16.0039 L16,16.0039 L16,14.0039 L6,14.0039 L6,3.0039 Z" id="Fill-328"></path>
+                <path d="M2,7.0039 L0,7.0039 L0,18.0039 C0,19.1069 0.897,20.0039 2,20.0039 L12,20.0039 L12,18.0039 L2,18.0039 L2,7.0039 Z" id="Fill-329"></path>
+            </g>
+        </g>
+    </g>
+</svg>

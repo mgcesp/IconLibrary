@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 885 + Fill 886 + Fill 887</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-51.000000, -1632.000000)" fill="#757575">
+            <g id="Fill-885-+-Fill-886-+-Fill-887" transform="translate(51.000000, 1632.000000)">
+                <path d="M9,8.0005 L9,13.0005 L14,13.0005 C14,10.2385 11.762,8.0005 9,8.0005" id="Fill-885"></path>
+                <path d="M2,20.0005 L2,2.0005 L12,2.0005 L12,6.0005 L16,6.0005 L16.002,20.0005 L2,20.0005 Z M13.414,0.0005 L2,0.0005 C0.897,0.0005 0,0.8985 0,2.0005 L0,20.0005 C0,21.1025 0.897,22.0005 2,22.0005 L16,22.0005 C17.103,22.0005 18,21.1025 18,20.0005 L18,4.5865 L13.414,0.0005 Z" id="Fill-886"></path>
+                <path d="M7,9.2759 C5.256,9.8959 4,11.5449 4,13.5009 C4,15.9859 6.015,18.0009 8.5,18.0009 C10.456,18.0009 12.105,16.7449 12.725,15.0009 L7,15.0009 L7,9.2759 Z" id="Fill-887"></path>
+            </g>
+        </g>
+    </g>
+</svg>

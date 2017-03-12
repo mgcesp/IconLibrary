@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>MT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M5.33333333,4 L5.33333333,2.66666667 L4,2.66666667 L4,4 L2.66666667,4 L2.66666667,5.33333333 L4,5.33333333 L4,6.66666667 L5.33333333,6.66666667 L5.33333333,5.33333333 L6.66666667,5.33333333 L6.66666667,4 L5.33333333,4 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.666666667" y="-0.666666667" width="5.33333333" height="5.33333333">
+            <rect x="2" y="2" width="5.33333333" height="5.33333333" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-508.000000, -604.000000)">
+            <g id="MT" transform="translate(508.000000, 604.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-2)" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2-Copy-2" fill="#DE233C" mask="url(#mask-3)" x="14.6666667" y="0" width="13.3333333" height="20"></rect>
+                <g id="Rectangle-364" mask="url(#mask-3)">
+                    <use fill="#CCCCCD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use stroke-opacity="0.66" stroke="#7B716A" mask="url(#mask-6)" stroke-width="1.33333333" xlink:href="#path-5"></use>
+                </g>
+                <circle id="Oval-20" fill="#7B716A" mask="url(#mask-3)" cx="4.66666667" cy="4.66666667" r="0.666666667"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

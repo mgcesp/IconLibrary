@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-1.000000, -433.000000)" fill="#757575">
+            <g id="Group" transform="translate(1.000000, 433.000000)">
+                <path d="M18,21.0005 C18,21.5535 18.448,22.0005 19,22.0005 C19.552,22.0005 20,21.5535 20,21.0005 C20,20.4485 19.552,20.0005 19,20.0005 C18.448,20.0005 18,20.4485 18,21.0005" id="Fill-210"></path>
+                <path d="M2,21.0005 C2,21.5535 2.448,22.0005 3,22.0005 C3.552,22.0005 4,21.5535 4,21.0005 C4,20.4485 3.552,20.0005 3,20.0005 C2.448,20.0005 2,20.4485 2,21.0005" id="Fill-211"></path>
+                <path d="M20,1.0005 C20,0.4485 19.552,0.0005 19,0.0005 L3,0.0005 C2.448,0.0005 2,0.4485 2,1.0005 L2,10.0005 L20,10.0005 L20,1.0005 Z" id="Fill-212"></path>
+                <path d="M13,15 L9,15 L9,13 L13,13 L13,15 Z M21.632,14.735 L20.345,11 L1.655,11 L0.368,14.735 C0.182,15.292 0.257,15.865 0.575,16.306 C0.893,16.748 1.412,17 2,17 L10,17 L10,20 L5,20 L5,22 L17,22 L17,20 L12,20 L12,17 L20,17 C20.588,17 21.107,16.748 21.425,16.306 C21.743,15.865 21.818,15.292 21.632,14.735 L21.632,14.735 Z" id="Fill-213"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 565</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-194.000000, -817.000000)" fill="#757575">
+            <g id="Fill-565" transform="translate(194.000000, 817.000000)">
+                <path d="M2,12.0005 L2,6.0005 L17.999,6.0005 L17.997,12.0005 L2,12.0005 Z M18,2.0005 L18,4.0005 L2,4.0005 L2,2.0005 L18,2.0005 Z M18,0.0005 L2,0.0005 C0.897,0.0005 0,0.8985 0,2.0005 L0,12.0005 C0,13.1035 0.897,14.0005 2,14.0005 L7.585,14.0005 L1.586,19.9995 L4.414,19.9995 L9,15.4145 L9,19.9995 L11,19.9995 L11,15.4145 L15.586,19.9995 L18.414,19.9995 L12.415,14.0005 L18,14.0005 C19.103,14.0005 20,13.1035 20,12.0005 L20,2.0005 C20,0.8985 19.103,0.0005 18,0.0005 L18,0.0005 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
