@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 174 + Fill 175</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-434.000000, -338.000000)" fill="#757575">
+            <g id="Fill-174-+-Fill-175" transform="translate(434.000000, 338.000000)">
+                <polygon id="Fill-174" points="15 20 5 20 5 18 15 18"></polygon>
+                <path d="M18,5.52 L15.994,7.125 C15.995,7.083 16,7.042 16,7 L16,3 L18,3 L18,5.52 Z M2,5.52 L2,3 L4,3 L4,7 C4,7.042 4.005,7.083 4.006,7.125 L2,5.52 Z M19,1 L15.722,1 C15.375,0.406 14.737,0 14,0 L6,0 C5.263,0 4.625,0.406 4.278,1 L1,1 C0.448,1 0,1.449 0,2 L0,6 C0,6.304 0.138,6.592 0.375,6.782 L5.304,10.724 C6.206,11.86 7.51,12.659 9,12.91 L9,14 L7,14 C6.448,14 6,14.449 6,15 L6,17 L14,17 L14,15 C14,14.449 13.552,14 13,14 L11,14 L11,12.91 C12.49,12.659 13.794,11.86 14.696,10.724 L19.625,6.782 C19.862,6.592 20,6.304 20,6 L20,2 C20,1.449 19.552,1 19,1 L19,1 Z" id="Fill-175"></path>
+            </g>
+        </g>
+    </g>
+</svg>

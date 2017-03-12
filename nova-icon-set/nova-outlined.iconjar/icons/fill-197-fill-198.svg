@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 197 + Fill 198</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-51.000000, -431.000000)" fill="#757575">
+            <g id="Fill-197-+-Fill-198" transform="translate(51.000000, 431.000000)">
+                <path d="M2,17 L16,17 L16,19 L2,19 L2,17 Z M16,8 L15,8 L15,10 L16,10 L16,15 L2,15 L2,10 L3,10 L3,8 L2,8 C0.897,8 0,8.897 0,10 L0,19 C0,20.103 0.897,21 2,21 L8,21 L8,22 L5,22 L5,24 L13,24 L13,22 L10,22 L10,21 L16,21 C17.103,21 18,20.103 18,19 L18,10 C18,8.897 17.103,8 16,8 L16,8 Z" id="Fill-197"></path>
+                <polygon id="Fill-198" points="13.707 7.707 12.293 6.293 10 8.586 10 -2.27373675e-13 8 -2.27373675e-13 8 8.586 5.707 6.293 4.293 7.707 9 12.415"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

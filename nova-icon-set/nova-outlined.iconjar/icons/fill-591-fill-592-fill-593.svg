@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 591 + Fill 592 + Fill 593</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-150.000000, -962.000000)" fill="#767676">
+            <g id="Fill-591-+-Fill-592-+-Fill-593" transform="translate(150.000000, 962.000000)">
+                <path d="M6.0005,2.0022 C8.2065,2.0022 10.0005,3.7962 10.0005,6.0022 C10.0005,8.5092 7.5625,12.2962 5.9995,14.3842 C4.4365,12.2982 2.0005,8.5122 2.0005,6.0022 C2.0005,3.7962 3.7945,2.0022 6.0005,2.0022 M6.0005,17.5642 C8.4035,14.6812 12.0005,9.7392 12.0005,6.0022 C12.0005,2.6932 9.3095,0.0022 6.0005,0.0022 C2.6915,0.0022 0.0005,2.6932 0.0005,6.0022 C0.0005,9.7402 3.5995,14.6822 6.0005,17.5642" id="Fill-591"></path>
+                <path d="M8.0005,6.0022 C8.0005,4.9002 7.1035,4.0022 6.0005,4.0022 C4.8975,4.0022 4.0005,4.9002 4.0005,6.0022 C4.0005,7.1042 4.8975,8.0022 6.0005,8.0022 C7.1035,8.0022 8.0005,7.1042 8.0005,6.0022" id="Fill-592"></path>
+                <polygon id="Fill-593" points="2.001 20.002 10.001 20.002 10.001 18.002 2.001 18.002"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

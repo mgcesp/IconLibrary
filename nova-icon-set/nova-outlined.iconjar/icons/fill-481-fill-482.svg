@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 481 + Fill 482</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-195.000000, -626.000000)" fill="#757575">
+            <g id="Fill-481-+-Fill-482" transform="translate(195.000000, 626.000000)">
+                <path d="M14.9995,13.9565 L8.6285,9.0015 L14.9995,4.0455 L14.9995,13.9565 Z M15.8795,2.2495 C15.2115,1.9215 14.3615,2.0075 13.7715,2.4665 L7.3995,7.4225 C6.9105,7.8045 6.6285,8.3795 6.6285,9.0005 C6.6285,9.6215 6.9105,10.1965 7.4005,10.5785 L13.7725,15.5355 C14.3675,15.9985 15.1815,16.0935 15.8795,15.7525 C16.5605,15.4185 16.9995,14.7135 16.9995,13.9555 L16.9995,4.0455 C16.9995,3.2875 16.5605,2.5825 15.8795,2.2495 L15.8795,2.2495 Z" id="Fill-481"></path>
+                <path d="M11.6245,1.7817 L10.3755,0.2197 L0.3755,8.2197 C0.1385,8.4097 0.0005,8.6967 0.0005,9.0007 C0.0005,9.3037 0.1385,9.5927 0.3755,9.7817 L10.3755,17.7817 L11.6245,16.2197 L2.6005,9.0007 L11.6245,1.7817 Z" id="Fill-482"></path>
+            </g>
+        </g>
+    </g>
+</svg>

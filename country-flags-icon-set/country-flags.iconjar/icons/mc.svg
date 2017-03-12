@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>MC</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-604.000000, -604.000000)">
+            <g id="MC" transform="translate(604.000000, 604.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-3)" fill="#FFFFFF">
+                    <use mask="url(#mask-5)" xlink:href="#path-2"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#EA233B" mask="url(#mask-4)" x="0" y="0" width="28" height="10.6666667"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

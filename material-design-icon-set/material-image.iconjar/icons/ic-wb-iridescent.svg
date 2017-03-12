@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="23px" viewBox="0 0 18 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_wb_iridescent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image" transform="translate(-435.000000, -816.000000)">
+            <g id="ic_wb_iridescent" transform="translate(432.000000, 816.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M5,14.5 L19,14.5 L19,8.5 L5,8.5 L5,14.5 L5,14.5 Z M11,0.55 L11,3.5 L13,3.5 L13,0.55 L11,0.55 L11,0.55 Z M19.04,3.05 L17.25,4.84 L18.66,6.25 L20.46,4.46 L19.04,3.05 L19.04,3.05 Z M13,22.45 L13,19.5 L11,19.5 L11,22.45 L13,22.45 L13,22.45 Z M20.45,18.54 L18.65,16.75 L17.24,18.16 L19.03,19.96 L20.45,18.54 L20.45,18.54 Z M3.55,4.46 L5.34,6.25 L6.75,4.84 L4.96,3.05 L3.55,4.46 L3.55,4.46 Z M4.96,19.95 L6.75,18.15 L5.34,16.74 L3.55,18.53 L4.96,19.95 L4.96,19.95 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

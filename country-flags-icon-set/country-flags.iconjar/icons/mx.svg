@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>MX</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-316.000000, -604.000000)">
+            <g id="MX" transform="translate(316.000000, 604.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-2)" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Mask" fill="#E3283E" mask="url(#mask-3)" x="18.6666667" y="0" width="9.33333333" height="20"></rect>
+                <rect id="Rectangle-2" fill="#128A60" mask="url(#mask-3)" x="0" y="0" width="9.33333333" height="20"></rect>
+                <path d="M11.3333333,9.33333333 C11.3333333,10.3191151 11.8682284,11.1799654 12.663612,11.6414778 M15.4348494,11.5814633 C16.175601,11.107701 16.6666667,10.2778644 16.6666667,9.33333333" id="Oval-5" stroke="#8C9157" stroke-width="1.33333333" stroke-linecap="round" mask="url(#mask-3)"></path>
+                <ellipse id="Oval-5" fill="#C59262" mask="url(#mask-3)" cx="14" cy="8.66666667" rx="1.33333333" ry="2"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 422 + Fill 423 + Fill 424</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-432.000000, -768.000000)" fill="#767676">
+            <g id="Fill-422-+-Fill-423-+-Fill-424" transform="translate(432.000000, 768.000000)">
+                <polygon id="Fill-422" points="20 9.0005 20 7.0005 16.58 7.0005 12.868 0.5035 11.132 1.4965 14.277 7.0005 5.724 7.0005 8.868 1.4965 7.132 0.5035 3.42 7.0005 0 7.0005 0 9.0005"></polygon>
+                <path d="M18.5801,10.0005 L1.4211,10.0005 L3.0241,17.2175 C3.1261,17.6755 3.5311,18.0005 4.0001,18.0005 L14.3481,18.0005 C14.9011,16.4415 16.0751,15.1795 17.5771,14.5155 L18.5801,10.0005 Z" id="Fill-423"></path>
+                <polygon id="Fill-424" points="23.707 17.707 22.293 16.294 20 18.586 17.707 16.294 16.293 17.707 18.586 20.001 16.293 22.294 17.707 23.707 20 21.415 22.293 23.707 23.707 22.294 21.414 20.001"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

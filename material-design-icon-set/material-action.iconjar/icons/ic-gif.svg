@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="6px" viewBox="0 0 14 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_gif</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="24 24 0 24 0 0 24 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action" transform="translate(-437.000000, -393.000000)">
+            <g id="ic_gif" transform="translate(432.000000, 384.000000)">
+                <g id="Icon-24px">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="a"></g>
+                    <path d="M11.5,9 L13,9 L13,15 L11.5,15 L11.5,9 Z M9,9 L6,9 C5.4,9 5,9.5 5,10 L5,14 C5,14.5 5.4,15 6,15 L9,15 C9.6,15 10,14.5 10,14 L10,12 L8.5,12 L8.5,13.5 L6.5,13.5 L6.5,10.5 L10,10.5 L10,10 C10,9.5 9.6,9 9,9 L9,9 Z M19,10.5 L19,9 L14.5,9 L14.5,15 L16,15 L16,13 L18,13 L18,11.5 L16,11.5 L16,10.5 L19,10.5 Z" id="Shape" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

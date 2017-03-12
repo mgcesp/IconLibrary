@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_free_breakfast</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Places" transform="translate(-52.000000, -99.000000)">
+            <g id="ic_free_breakfast" transform="translate(48.000000, 96.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M20,3 L4,3 L4,13 C4,15.21 5.79,17 8,17 L14,17 C16.21,17 18,15.21 18,13 L18,10 L20,10 C21.11,10 22,9.1 22,8 L22,5 C22,3.89 21.11,3 20,3 L20,3 Z M20,8 L18,8 L18,5 L20,5 L20,8 L20,8 Z M4,19 L20,19 L20,21 L4,21 L4,19 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

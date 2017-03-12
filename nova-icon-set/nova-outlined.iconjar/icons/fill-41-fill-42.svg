@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 41 + Fill 42</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-435.000000, -1536.000000)" fill="#757575">
+            <g id="Fill-41-+-Fill-42" transform="translate(435.000000, 1536.000000)">
+                <path d="M16.0015,16.0005 L6.0005,16.0005 L6.0005,2.0005 L12.0005,2.0005 L12.0005,6.0005 L16.0005,6.0005 L16.0015,16.0005 Z M13.4145,0.0005 L6.0005,0.0005 C4.8975,0.0005 4.0005,0.8985 4.0005,2.0005 L4.0005,16.0005 C4.0005,17.1025 4.8975,18.0005 6.0005,18.0005 L16.0005,18.0005 C17.1035,18.0005 18.0005,17.1025 18.0005,16.0005 L18.0005,4.5865 L13.4145,0.0005 Z" id="Fill-41"></path>
+                <path d="M2,4.0005 L0,4.0005 L0,20.0005 C0,21.1025 0.897,22.0005 2,22.0005 L14,22.0005 L14,20.0005 L2,20.0005 L2,4.0005 Z" id="Fill-42"></path>
+            </g>
+        </g>
+    </g>
+</svg>

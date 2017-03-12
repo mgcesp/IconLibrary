@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="18px" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 181 + Fill 182</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-96.000000, -386.000000)" fill="#757575">
+            <g id="Fill-181-+-Fill-182" transform="translate(96.000000, 386.000000)">
+                <path d="M5,6.0005 L1,6.0005 C0.448,6.0005 0,6.4485 0,7.0005 L0,17.0005 C0,17.5525 0.448,18.0005 1,18.0005 L5,18.0005 C5.552,18.0005 6,17.5525 6,17.0005 L6,7.0005 C6,6.4485 5.552,6.0005 5,6.0005" id="Fill-181"></path>
+                <path d="M22.7676,5.3599 C22.5776,5.1329 22.2966,5.0009 21.9996,5.0009 L15.9996,5.0009 L15.9996,1.0009 C15.9996,0.4489 15.5526,0.0009 14.9996,0.0009 L11.9996,0.0009 C11.6006,0.0009 11.2386,0.2389 11.0816,0.6069 L7.9996,7.0009 L7.9996,16.4779 L11.6286,17.9289 C11.7466,17.9759 11.8726,18.0009 11.9996,18.0009 L19.9996,18.0009 C20.4836,18.0009 20.8976,17.6549 20.9836,17.1789 L22.9836,6.1789 C23.0376,5.8879 22.9576,5.5879 22.7676,5.3599" id="Fill-182"></path>
+            </g>
+        </g>
+    </g>
+</svg>

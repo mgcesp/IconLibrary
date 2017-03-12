@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>EG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M10.6666667,8.66051865 C10.6666667,8.29572427 10.9625765,8 11.3333333,8 L11.6635437,8 C11.8493634,8 12.0663598,8.13271968 12.1479549,8.29590988 L12.6666667,9.33333333 C12.6666667,9.33333333 13.3991075,8 14,8 C14.6666667,8 15.3333333,9.33333333 15.3333333,9.33333333 L15.8520451,8.29590988 C15.9337583,8.13248337 16.14269,8 16.3364563,8 L16.6666667,8 C17.0348565,8 17.3333333,8.30065012 17.3333333,8.66051865 L17.3333333,11.3394814 C17.3333333,11.7042757 17.0880941,11.8365072 16.7868245,11.6356608 L15.3333333,10.6666667 L14.6666667,10.6666667 L14.6666667,11.3333333 C14.6666667,11.7015232 14.3707568,12 14,12 L14,12 C13.6318102,12 13.3333333,11.7040901 13.3333333,11.3333333 L13.3333333,10.6666667 L12.6666667,10.6666667 L11.2131755,11.6356608 C10.911347,11.8368798 10.6666667,11.6993499 10.6666667,11.3394814 L10.6666667,8.66051865 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.66666667" height="4" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-76.000000, -220.000000)">
+            <g id="EG" transform="translate(76.000000, 220.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-2)" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#E41D33" mask="url(#mask-3)" x="0" y="0" width="28" height="6.66666667"></rect>
+                <rect id="Rectangle-2" fill="#262626" mask="url(#mask-3)" x="0" y="13.3333333" width="28" height="6.66666667"></rect>
+                <g id="Rectangle-129" mask="url(#mask-3)" stroke="#C6A846" stroke-width="1.33333333" fill="#F4B32E" fill-opacity="0.25">
+                    <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

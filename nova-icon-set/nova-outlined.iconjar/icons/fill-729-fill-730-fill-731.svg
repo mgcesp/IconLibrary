@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="12px" viewBox="0 0 24 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 729 + Fill 730 + Fill 731</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-96.000000, -1204.000000)" fill="#767676">
+            <g id="Fill-729-+-Fill-730-+-Fill-731" transform="translate(96.000000, 1204.000000)">
+                <path d="M17,10.0025 L17,2.0025 L19,2.0025 L19.001,10.0025 L17,10.0025 Z M5,10.0025 L5,2.0025 L7,2.0025 L7.001,10.0025 L5,10.0025 Z M19,0.0025 L17,0.0025 C15.897,0.0025 15,0.8995 15,2.0025 L15,5.0025 L9,5.0025 L9,2.0025 C9,0.8995 8.103,0.0025 7,0.0025 L5,0.0025 C3.897,0.0025 3,0.8995 3,2.0025 L3,10.0025 C3,11.1055 3.897,12.0025 5,12.0025 L7,12.0025 C8.103,12.0025 9,11.1055 9,10.0025 L9,7.0025 L15,7.0025 L15,10.0025 C15,11.1055 15.897,12.0025 17,12.0025 L19,12.0025 C20.103,12.0025 21,11.1055 21,10.0025 L21,2.0025 C21,0.8995 20.103,0.0025 19,0.0025 L19,0.0025 Z" id="Fill-729"></path>
+                <polygon id="Fill-730" points="22 8.003 24 8.003 24 4.003 22 4.003"></polygon>
+                <polygon id="Fill-731" points="0 8.003 2 8.003 2 4.003 0 4.003"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

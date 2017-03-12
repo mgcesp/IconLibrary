@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 138 + Fill 139</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-386.000000, -241.000000)" fill="#757575">
+            <g id="Fill-138-+-Fill-139" transform="translate(386.000000, 241.000000)">
+                <path d="M10,15.0005 L10,17.0005 L2,17.0005 L2,5.0005 L10,5.0005 L10,7.0005 L12,7.0005 L12,3.0005 C12,1.8965 11.104,1.0005 10,1.0005 L2,1.0005 C0.896,1.0005 0,1.8965 0,3.0005 L0,19.0005 C0,20.1045 0.896,21.0005 2,21.0005 L10,21.0005 C11.104,21.0005 12,20.1045 12,19.0005 L12,15.0005 L10,15.0005 Z" id="Fill-138"></path>
+                <path d="M14,0.4517 L14,8.7117 C13.693,8.5777 13.356,8.5007 13,8.5007 C11.62,8.5007 10.5,9.6207 10.5,11.0007 C10.5,12.3807 11.62,13.5007 13,13.5007 C15.574,13.5007 16,11.0007 16,11.0007 L16,4.2877 L17.743,5.5057 L18.888,3.8657 L14,0.4517 Z" id="Fill-139"></path>
+            </g>
+        </g>
+    </g>
+</svg>

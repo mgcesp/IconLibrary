@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 96 + Fill 97 + Fill 98</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-340.000000, -148.000000)" fill="#757575">
+            <g id="Fill-96-+-Fill-97-+-Fill-98" transform="translate(340.000000, 148.000000)">
+                <path d="M8,12.0005 C3.29,12.0005 0,14.4675 0,18.0005 L0,20.0005 L16,20.0005 L16,18.0005 C16,14.4675 12.71,12.0005 8,12.0005" id="Fill-96"></path>
+                <path d="M15,3.0005 L15,5.0005 C15,6.4785 14.195,7.7715 13,8.4635 L13,7.0005 L10,7.0005 L10,11.0005 L11,11.0005 C14.309,11.0005 17,8.3095 17,5.0005 L17,3.0005 L15,3.0005 Z" id="Fill-97"></path>
+                <path d="M8,0.0005 C5.243,0.0005 3,2.2435 3,5.0005 C3,7.7575 5.243,10.0005 8,10.0005 L8,8.0005 C6.346,8.0005 5,6.6545 5,5.0005 C5,4.4985 5.136,4.0295 5.356,3.6125 C6.857,4.3725 8.455,4.8385 10.129,4.9655 C10.417,4.9865 10.708,4.9955 11,4.9985 L11,5.0005 L13,5.0005 C13,2.2435 10.757,0.0005 8,0.0005" id="Fill-98"></path>
+            </g>
+        </g>
+    </g>
+</svg>

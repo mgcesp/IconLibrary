@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 203 + Fill 204</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-195.000000, -434.000000)" fill="#757575">
+            <g id="Fill-203-+-Fill-204" transform="translate(195.000000, 434.000000)">
+                <path d="M15.9971,16.0005 L2.0001,16.0005 L2.0001,2.0005 L16.0001,2.0005 L15.9971,16.0005 Z M16.0001,0.0005 L2.0001,0.0005 C0.8971,0.0005 0.0001,0.8975 0.0001,2.0005 L0.0001,16.0005 C0.0001,17.1035 0.8971,18.0005 2.0001,18.0005 L16.0001,18.0005 C17.1031,18.0005 18.0001,17.1035 18.0001,16.0005 L18.0001,2.0005 C18.0001,0.8975 17.1031,0.0005 16.0001,0.0005 L16.0001,0.0005 Z" id="Fill-203"></path>
+                <polygon id="Fill-204" points="8 7.4146 8 14.0006 10 14.0006 10 7.4146 12.293 9.7066 13.707 8.2936 9 3.5866 4.293 8.2936 5.707 9.7066"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

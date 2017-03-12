@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 283 + Fill 284</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-242.000000, -49.000000)" fill="#757575">
+            <g id="Fill-283-+-Fill-284" transform="translate(242.000000, 49.000000)">
+                <path d="M13,8.0005 C13,6.3445 11.656,5.0005 10,5.0005 C8.344,5.0005 7,6.3445 7,8.0005 C7,9.1575 7.662,10.1495 8.622,10.6505 L8,15.0005 L12,15.0005 L11.378,10.6505 C12.338,10.1495 13,9.1575 13,8.0005" id="Fill-283"></path>
+                <path d="M10,2.0005 C5.589,2.0005 2,5.5895 2,10.0005 C2,14.4115 5.589,18.0005 10,18.0005 C14.411,18.0005 18,14.4115 18,10.0005 C18,5.5895 14.411,2.0005 10,2.0005 M10,20.0005 C4.486,20.0005 0,15.5145 0,10.0005 C0,4.4865 4.486,0.0005 10,0.0005 C15.514,0.0005 20,4.4865 20,10.0005 C20,15.5145 15.514,20.0005 10,20.0005" id="Fill-284"></path>
+            </g>
+        </g>
+    </g>
+</svg>

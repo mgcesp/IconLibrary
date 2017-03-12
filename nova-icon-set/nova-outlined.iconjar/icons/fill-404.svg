@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 404</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-242.000000, -436.000000)" fill="#757575">
+            <g id="Fill-404" transform="translate(242.000000, 436.000000)">
+                <path d="M5,6.0005 C3.346,6.0005 2,7.3465 2,9.0005 C2,10.6545 3.346,12.0005 5,12.0005 L13,12.0005 C15.757,12.0005 18,9.7575 18,7.0005 C18,4.2435 15.757,2.0005 13,2.0005 C10.663,2.0005 8.662,3.5905 8.134,5.8675 C8.061,6.1845 7.837,6.4455 7.536,6.5675 C7.235,6.6895 6.892,6.6595 6.618,6.4815 C6.13,6.1675 5.57,6.0005 5,6.0005 M13,14.0005 L5,14.0005 C2.243,14.0005 0,11.7575 0,9.0005 C0,6.2435 2.243,4.0005 5,4.0005 C5.533,4.0005 6.06,4.0865 6.562,4.2545 C7.642,1.6995 10.141,0.0005 13,0.0005 C16.86,0.0005 20,3.1405 20,7.0005 C20,10.8605 16.86,14.0005 13,14.0005"></path>
+            </g>
+        </g>
+    </g>
+</svg>

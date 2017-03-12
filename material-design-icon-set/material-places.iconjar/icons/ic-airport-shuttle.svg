@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_airport_shuttle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Places" transform="translate(-97.000000, -53.000000)">
+            <g id="ic_airport_shuttle" transform="translate(96.000000, 48.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M17,5 L3,5 C1.9,5 1,5.89 1,7 L1,16 L3,16 C3,17.65 4.34,19 6,19 C7.66,19 9,17.65 9,16 L14.5,16 C14.5,17.65 15.84,19 17.5,19 C19.16,19 20.5,17.65 20.5,16 L23,16 L23,11 L17,5 L17,5 Z M3,11 L3,7 L7,7 L7,11 L3,11 L3,11 Z M6,17.5 C5.17,17.5 4.5,16.83 4.5,16 C4.5,15.17 5.17,14.5 6,14.5 C6.83,14.5 7.5,15.17 7.5,16 C7.5,16.83 6.83,17.5 6,17.5 L6,17.5 Z M13,11 L9,11 L9,7 L13,7 L13,11 L13,11 Z M17.5,17.5 C16.67,17.5 16,16.83 16,16 C16,15.17 16.67,14.5 17.5,14.5 C18.33,14.5 19,15.17 19,16 C19,16.83 18.33,17.5 17.5,17.5 L17.5,17.5 Z M15,11 L15,7 L16,7 L20,11 L15,11 L15,11 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

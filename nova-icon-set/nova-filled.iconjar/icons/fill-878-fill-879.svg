@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 878 + Fill 879</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-48.000000, -1588.000000)" fill="#757575">
+            <g id="Fill-878-+-Fill-879" transform="translate(48.000000, 1588.000000)">
+                <path d="M18,6.0005 L18,1.0005 L23,6.0005 L18,6.0005 Z M20.414,0.0005 L13,0.0005 L13,18.0005 L22,18.0005 C23.103,18.0005 24,17.1025 24,16.0005 L24,3.5865 L20.414,0.0005 Z" id="Fill-878"></path>
+                <path d="M6,6.0005 L1,6.0005 L6,1.0005 L6,6.0005 Z M11,0.0005 L3.586,0.0005 L0,3.5865 L0,16.0005 C0,17.1025 0.897,18.0005 2,18.0005 L11,18.0005 L11,0.0005 Z" id="Fill-879"></path>
+            </g>
+        </g>
+    </g>
+</svg>

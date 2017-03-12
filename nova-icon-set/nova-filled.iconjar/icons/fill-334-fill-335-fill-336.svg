@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 334 + Fill 335 + Fill 336</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-98.000000, -627.000000)" fill="#767676">
+            <g id="Fill-334-+-Fill-335-+-Fill-336" transform="translate(98.000000, 627.000000)">
+                <path d="M18.042,11.2905 L15,12.2035 L15,11.0035 C15,9.9035 14.1,9.0035 13,9.0035 L5,9.0035 C3.9,9.0035 3,9.9035 3,11.0035 L3,17.0035 C3,18.1025 3.9,19.0035 5,19.0035 L13,19.0035 C14.1,19.0035 15,18.1025 15,17.0035 L15,15.8035 L18.042,16.7165 C18.569,16.8745 19,16.5535 19,16.0035 L19,12.0035 C19,11.4535 18.569,11.1335 18.042,11.2905" id="Fill-334"></path>
+                <path d="M8,4.0034 C8,1.7944 6.209,0.0034 4,0.0034 C1.791,0.0034 0,1.7944 0,4.0034 C0,6.2124 1.791,8.0034 4,8.0034 C6.209,8.0034 8,6.2124 8,4.0034" id="Fill-335"></path>
+                <path d="M13,8.0034 C15.209,8.0034 17,6.2124 17,4.0034 C17,1.7944 15.209,0.0034 13,0.0034 C10.791,0.0034 9,1.7944 9,4.0034 C9,6.2124 10.791,8.0034 13,8.0034" id="Fill-336"></path>
+            </g>
+        </g>
+    </g>
+</svg>

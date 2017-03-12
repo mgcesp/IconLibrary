@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 56</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(0.000000, -101.000000)" fill="#757575">
+            <g id="Fill-56" transform="translate(0.000000, 101.000000)">
+                <path d="M21,6 L17,6 L17,2 L21,2 L21,6 Z M12,7 L3,7 L3,5 L12,5 L12,7 Z M12,11 L3,11 L3,9 L12,9 L12,11 Z M22,0 L2,0 C0.896,0 0,0.897 0,2 L0,13 C0,14.104 0.896,15 2,15 L22,15 C23.104,15 24,14.104 24,13 L24,2 C24,0.897 23.104,0 22,0 L22,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

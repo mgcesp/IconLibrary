@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_camera_front</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image" transform="translate(-197.000000, -144.000000)">
+            <g id="ic_camera_front" transform="translate(192.000000, 144.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M10,20 L5,20 L5,22 L10,22 L10,24 L13,21 L10,18 L10,20 L10,20 Z M14,20 L14,22 L19,22 L19,20 L14,20 L14,20 Z M12,8 C13.1,8 14,7.1 14,6 C14,4.9 13.1,4 12,4 C10.9,4 10.01,4.9 10.01,6 C10.01,7.1 10.9,8 12,8 L12,8 Z M17,0 L7,0 C5.9,0 5,0.9 5,2 L5,16 C5,17.1 5.9,18 7,18 L17,18 C18.1,18 19,17.1 19,16 L19,2 C19,0.9 18.1,0 17,0 L17,0 Z M7,2 L17,2 L17,12.5 C17,10.83 13.67,10 12,10 C10.33,10 7,10.83 7,12.5 L7,2 L7,2 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

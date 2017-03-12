@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 366 + Fill 367</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-196.000000, -287.000000)" fill="#757575">
+            <g id="Fill-366-+-Fill-367" transform="translate(196.000000, 287.000000)">
+                <path d="M7.999,17.998 C4.686,17.998 1.999,15.312 1.999,11.998 C1.999,8.686 4.686,5.998 7.999,5.998 C11.313,5.998 13.999,8.686 13.999,11.998 C13.999,15.312 11.313,17.998 7.999,17.998 L7.999,17.998 Z M10.246,22 L5.754,22 L5.016,19.417 C5.94,19.79 6.945,20 8,20 C9.055,20 10.061,19.79 10.984,19.417 L10.246,22 Z M5.754,2 L10.246,2 L10.984,4.583 C10.061,4.21 9.055,4 8,4 C6.945,4 5.94,4.21 5.016,4.583 L5.754,2 Z M13.537,6.24 L11.754,0 L4.246,0 L2.463,6.24 C0.948,7.697 0,9.738 0,12 C0,14.263 0.948,16.305 2.463,17.761 L4.246,24 L11.754,24 L13.537,17.761 C15.052,16.305 16,14.263 16,12 C16,9.738 15.052,7.697 13.537,6.24 L13.537,6.24 Z" id="Fill-366"></path>
+                <polygon id="Fill-367" points="5 15.0005 8 9.0005 11 15.0005 8 13.0005"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

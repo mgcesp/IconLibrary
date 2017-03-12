@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>CF</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags" transform="translate(-28.000000, -124.000000)">
+            <g id="CF" transform="translate(28.000000, 124.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#F5F5F5" mask="url(#mask-2)" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#083D96" mask="url(#mask-3)" x="0" y="0" width="28" height="5.33333333"></rect>
+                <rect id="Rectangle-2" fill="#37AE39" mask="url(#mask-3)" x="0" y="9.33333333" width="28" height="5.33333333"></rect>
+                <rect id="Rectangle-2" fill="#FFD13F" mask="url(#mask-3)" x="0" y="14.6666667" width="28" height="5.33333333"></rect>
+                <rect id="Rectangle-2" fill="#E42346" mask="url(#mask-3)" x="10.6666667" y="0" width="6.66666667" height="20"></rect>
+                <polygon id="Star-8" fill="#FFD03B" mask="url(#mask-3)" points="4.66666667 3.4466667 3.49109616 4.28470066 3.92484255 2.90769993 2.76455363 2.04863268 4.20819415 2.03563339 4.66666667 0.666666667 5.12513918 2.03563339 6.5687797 2.04863268 5.40849078 2.90769993 5.84223717 4.28470066"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

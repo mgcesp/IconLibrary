@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_golf_course</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Places" transform="translate(-100.000000, -98.000000)">
+            <g id="ic_golf_course" transform="translate(96.000000, 96.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <circle id="Oval" fill="#000000" cx="19.5" cy="19.5" r="1.5"></circle>
+                    <path d="M17,5.92 L9,2 L9,20 L7,20 L7,18.27 C5.21,18.62 4,19.26 4,20 C4,21.1 6.69,22 10,22 C13.31,22 16,21.1 16,20 C16,19.01 13.84,18.19 11,18.03 L11,8.98 L17,5.92 L17,5.92 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

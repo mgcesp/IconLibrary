@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 897 + Fill 898</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-147.000000, -1634.000000)" fill="#757575">
+            <g id="Fill-897-+-Fill-898" transform="translate(147.000000, 1634.000000)">
+                <path d="M13,2.0005 L11,2.0005 C11,0.8955 10.105,0.0005 9,0.0005 C7.895,0.0005 7,0.8955 7,2.0005 L5,2.0005 L5,5.0005 L13,5.0005 L13,2.0005 Z" id="Fill-897"></path>
+                <path d="M13,14.0005 L10,14.0005 L10,17.0005 L8,17.0005 L8,14.0005 L5,14.0005 L5,12.0005 L8,12.0005 L8,9.0005 L10,9.0005 L10,12.0005 L13,12.0005 L13,14.0005 Z M16,3.0005 L15,3.0005 L15,6.0005 L3,6.0005 L3,3.0005 L2,3.0005 C0.895,3.0005 0,3.8955 0,5.0005 L0,19.0005 C0,20.1045 0.895,21.0005 2,21.0005 L16,21.0005 C17.105,21.0005 18,20.1045 18,19.0005 L18,5.0005 C18,3.8955 17.105,3.0005 16,3.0005 L16,3.0005 Z" id="Fill-898"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 294 + Fill 295 + Fill 296</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-240.000000, -149.000000)" fill="#757575">
+            <g id="Fill-294-+-Fill-295-+-Fill-296" transform="translate(240.000000, 149.000000)">
+                <path d="M8,4.0005 C6.897,4.0005 6,4.8965 6,6.0005 C6,7.1035 6.897,8.0005 8,8.0005 C9.103,8.0005 10,7.1035 10,6.0005 C10,4.8965 9.103,4.0005 8,4.0005 M8,10.0005 C5.794,10.0005 4,8.2065 4,6.0005 C4,3.7945 5.794,2.0005 8,2.0005 C10.206,2.0005 12,3.7945 12,6.0005 C12,8.2065 10.206,10.0005 8,10.0005" id="Fill-294"></path>
+                <path d="M2.1587,16.0005 L13.8417,16.0005 C13.2437,14.1925 11.0077,13.0005 7.9997,13.0005 C4.9917,13.0005 2.7567,14.1925 2.1587,16.0005 L2.1587,16.0005 Z M15.9997,18.0005 L-0.0003,18.0005 L-0.0003,17.0005 C-0.0003,13.4675 3.2897,11.0005 7.9997,11.0005 C12.7107,11.0005 15.9997,13.4675 15.9997,17.0005 L15.9997,18.0005 Z" id="Fill-295"></path>
+                <polygon id="Fill-296" points="21 2.995 15 2.995 15 0.995 21 0.995"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 360 + Fill 361</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-339.000000, -675.000000)" fill="#767676">
+            <g id="Fill-360-+-Fill-361" transform="translate(339.000000, 674.000000)">
+                <path d="M17.2676,1.271 L0.2676,18.271 L1.6816,19.685 L6.6486,14.717 L10.2676,18.685 C10.5536,18.971 10.9836,19.056 11.3576,18.901 C11.7316,18.747 11.9746,18.382 11.9746,17.978 L11.9746,9.392 L18.6816,2.685 L17.2676,1.271 Z" id="Fill-360"></path>
+                <path d="M11.9746,3.7354 L11.9746,1.9784 C11.9746,1.5734 11.7316,1.2084 11.3576,1.0544 C10.9836,0.8994 10.5536,0.9844 10.2676,1.2714 L5.9746,5.9784 L2.9746,5.9784 C2.4246,5.9784 1.9746,6.4274 1.9746,6.9784 L1.9746,12.9784 C1.9746,13.1894 2.0566,13.3774 2.1706,13.5394 L11.9746,3.7354 Z" id="Fill-361"></path>
+            </g>
+        </g>
+    </g>
+</svg>

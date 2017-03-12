@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 780 + Fill 781 + Fill 782</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-338.000000, -1394.000000)" fill="#767676">
+            <g id="Fill-780-+-Fill-781-+-Fill-782" transform="translate(338.000000, 1394.000000)">
+                <path d="M16,0.0005 C13.794,0.0005 12,1.7945 12,4.0005 L17,4.0005 L17,7.8585 C18.72,7.4105 20,5.8585 20,4.0005 C20,1.7945 18.206,0.0005 16,0.0005" id="Fill-780"></path>
+                <path d="M15,5.0005 L1,5.0005 C0.596,5.0005 0.231,5.2445 0.076,5.6175 C-0.079,5.9915 0.007,6.4215 0.293,6.7075 L7,13.4145 L7,18.0005 L4,18.0005 L4,20.0005 L12,20.0005 L12,18.0005 L9,18.0005 L9,13.4145 L15.707,6.7075 C15.993,6.4215 16.079,5.9915 15.924,5.6175 C15.769,5.2445 15.404,5.0005 15,5.0005" id="Fill-781"></path>
+                <path d="M3.5859,4.0005 L6.4139,4.0005 L3.7069,1.2935 C3.5199,1.1055 3.2649,1.0005 2.9999,1.0005 L-0.0001,1.0005 L-0.0001,3.0005 L2.5859,3.0005 L3.5859,4.0005 Z" id="Fill-782"></path>
+            </g>
+        </g>
+    </g>
+</svg>

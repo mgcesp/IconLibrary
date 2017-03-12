@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 140 + Fill 141</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-340.000000, -242.000000)" fill="#757575">
+            <g id="Fill-140-+-Fill-141" transform="translate(340.000000, 242.000000)">
+                <path d="M10,15.0005 L10,16.0005 L2,16.0005 L2,4.0005 L10,4.0005 L10,5.0005 L12,5.0005 L12,2.0005 C12,0.8965 11.104,0.0005 10,0.0005 L2,0.0005 C0.896,0.0005 0,0.8965 0,2.0005 L0,18.0005 C0,19.1045 0.896,20.0005 2,20.0005 L10,20.0005 C11.104,20.0005 12,19.1045 12,18.0005 L12,15.0005 L10,15.0005 Z" id="Fill-140"></path>
+                <polygon id="Fill-141" points="15.707 7.707 14.293 6.293 12 8.586 9.707 6.293 8.293 7.707 10.586 10 8.293 12.293 9.707 13.707 12 11.415 14.293 13.707 15.707 12.293 13.414 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

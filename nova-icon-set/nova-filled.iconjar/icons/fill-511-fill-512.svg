@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 511 + Fill 512</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-386.000000, -915.000000)" fill="#767676">
+            <g id="Fill-511-+-Fill-512" transform="translate(386.000000, 915.000000)">
+                <path d="M3,1.0005 C3.552,1.0005 4,1.4485 4,2.0005 C4,2.5525 3.552,3.0005 3,3.0005 C2.448,3.0005 2,2.5525 2,2.0005 C2,1.4485 2.448,1.0005 3,1.0005 L3,1.0005 Z M6,1.0005 C6.552,1.0005 7,1.4485 7,2.0005 C7,2.5525 6.552,3.0005 6,3.0005 C5.448,3.0005 5,2.5525 5,2.0005 C5,1.4485 5.448,1.0005 6,1.0005 L6,1.0005 Z M20,4.0025 L20,2.0005 C20,0.8985 19.103,0.0005 18,0.0005 L2,0.0005 C0.897,0.0005 0,0.8985 0,2.0005 L0,4.0025 L20,4.0025 Z" id="Fill-511"></path>
+                <path d="M0,5.0022 L0,16.0002 C0,17.1032 0.897,18.0002 2,18.0002 L18,18.0002 C19.103,18.0002 20,17.1032 20,16.0002 L20,5.0022 L0,5.0022 Z" id="Fill-512"></path>
+            </g>
+        </g>
+    </g>
+</svg>

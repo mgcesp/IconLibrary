@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 802 + Fill 803</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-150.000000, -1442.000000)" fill="#767676">
+            <g id="Fill-802-+-Fill-803" transform="translate(150.000000, 1442.000000)">
+                <path d="M5.0713,19.3721 C5.2233,19.7511 5.5913,20.0001 6.0003,20.0001 C6.4083,20.0001 6.7763,19.7511 6.9283,19.3721 L10.6773,10.0001 L1.3223,10.0001 L5.0713,19.3721 Z" id="Fill-802"></path>
+                <path d="M6,0.0005 C2.686,0.0005 0,2.6875 0,6.0005 L0,7.0005 C0,8.1055 0.895,9.0005 2,9.0005 C3.105,9.0005 4,8.1055 4,7.0005 C4,8.1055 4.895,9.0005 6,9.0005 C7.105,9.0005 8,8.1055 8,7.0005 C8,8.1055 8.895,9.0005 10,9.0005 C11.105,9.0005 12,8.1055 12,7.0005 L12,6.0005 C12,2.6875 9.314,0.0005 6,0.0005" id="Fill-803"></path>
+            </g>
+        </g>
+    </g>
+</svg>

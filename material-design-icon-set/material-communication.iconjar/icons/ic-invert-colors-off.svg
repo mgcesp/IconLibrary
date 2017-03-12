@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_invert_colors_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Communication" transform="translate(-291.000000, -146.000000)">
+            <g id="ic_invert_colors_off" transform="translate(288.000000, 144.000000)">
+                <g id="Icon-24px">
+                    <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                    <path d="M20.65,20.87 L18.3,18.52 L12,12.23 L8.44,8.66 L7.02,7.25 L4.27,4.5 L3,5.77 L5.78,8.55 C3.23,11.69 3.42,16.31 6.34,19.24 C7.9,20.8 9.95,21.58 12,21.58 C13.79,21.58 15.57,20.99 17.03,19.8 L19.73,22.5 L21,21.23 L20.65,20.87 L20.65,20.87 Z M12,19.59 C10.4,19.59 8.89,18.97 7.76,17.83 C6.62,16.69 6,15.19 6,13.59 C6,12.27 6.43,11.02 7.21,9.99 L12,14.77 L12,19.59 L12,19.59 Z M12,5.1 L12,9.68 L19.25,16.94 C20.62,13.98 20.09,10.37 17.65,7.93 L12,2.27 L8.3,5.97 L9.71,7.38 L12,5.1 L12,5.1 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

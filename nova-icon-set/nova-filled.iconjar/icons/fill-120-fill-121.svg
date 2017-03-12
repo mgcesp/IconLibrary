@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 120 + Fill 121</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Solid-Icons" transform="translate(-432.000000, -195.000000)" fill="#757575">
+            <g id="Fill-120-+-Fill-121" transform="translate(432.000000, 195.000000)">
+                <path d="M24,13.0005 L24,2.0005 C24,0.8975 23.103,0.0005 22,0.0005 L2,0.0005 C0.897,0.0005 0,0.8975 0,2.0005 L0,13.0005 L24,13.0005 Z" id="Fill-120"></path>
+                <path d="M0,14.0005 L0,15.0005 C0,16.1035 0.897,17.0005 2,17.0005 L11,17.0005 L11,19.0005 L7,19.0005 L7,21.0005 L17,21.0005 L17,19.0005 L13,19.0005 L13,17.0005 L22,17.0005 C23.103,17.0005 24,16.1035 24,15.0005 L24,14.0005 L0,14.0005 Z" id="Fill-121"></path>
+            </g>
+        </g>
+    </g>
+</svg>

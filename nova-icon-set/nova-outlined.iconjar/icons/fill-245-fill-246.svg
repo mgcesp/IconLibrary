@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 245 + Fill 246</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-194.000000, -95.000000)" fill="#757575">
+            <g id="Fill-245-+-Fill-246" transform="translate(194.000000, 95.000000)">
+                <path d="M2,22.0005 L2,14.1795 L9.47,18.8485 C9.632,18.9495 9.816,19.0005 10,19.0005 C10.184,19.0005 10.368,18.9495 10.53,18.8485 L18,14.1795 L18.001,22.0005 L2,22.0005 Z M16.113,13.0005 L10,16.8215 L3.887,13.0005 L16.113,13.0005 Z M18,11.0005 L2,11.0005 C0.897,11.0005 0,11.8985 0,13.0005 L0,22.0005 C0,23.1035 0.897,24.0005 2,24.0005 L18,24.0005 C19.103,24.0005 20,23.1035 20,22.0005 L20,13.0005 C20,11.8985 19.103,11.0005 18,11.0005 L18,11.0005 Z" id="Fill-245"></path>
+                <polygon id="Fill-246" points="9 4.415 9 9 11 9 11 4.415 13.293 6.707 14.707 5.293 10 0.586 5.293 5.293 6.707 6.707"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_hourglass_empty</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action" transform="translate(-390.000000, -434.000000)">
+            <g id="ic_hourglass_empty" transform="translate(384.000000, 432.000000)">
+                <g id="Icon-24px">
+                    <path d="M6,2 L6,8 L6.01,8 L6,8.01 L10,12 L6,16 L6.01,16.01 L6,16.01 L6,22 L18,22 L18,16.01 L17.99,16.01 L18,16 L14,12 L18,8.01 L17.99,8 L18,8 L18,2 L6,2 L6,2 Z M16,16.5 L16,20 L8,20 L8,16.5 L12,12.5 L16,16.5 L16,16.5 Z M12,11.5 L8,7.5 L8,4 L16,4 L16,7.5 L12,11.5 L12,11.5 Z" id="Shape" fill="#000000"></path>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

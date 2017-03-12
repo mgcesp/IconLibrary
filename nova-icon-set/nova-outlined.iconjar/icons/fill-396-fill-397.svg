@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 396 + Fill 397</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-390.000000, -337.000000)" fill="#757575">
+            <g id="Fill-396-+-Fill-397" transform="translate(390.000000, 337.000000)">
+                <path d="M12,10.0005 L12,17.1325 L7.555,14.1685 C7.219,13.9445 6.781,13.9445 6.445,14.1685 L2,17.1325 L2,2.0005 L14,2.0005 C14,0.8985 13.103,0.0005 12,0.0005 L2,0.0005 C0.897,0.0005 0,0.8985 0,2.0005 L0,19.0005 C0,19.3695 0.203,19.7085 0.528,19.8825 C0.852,20.0555 1.247,20.0365 1.555,19.8325 L7,16.2025 L12.445,19.8325 C12.613,19.9435 12.806,20.0005 13,20.0005 C13.162,20.0005 13.324,19.9615 13.472,19.8825 C13.797,19.7085 14,19.3695 14,19.0005 L14,10.0005 L12,10.0005 Z" id="Fill-396"></path>
+                <polygon id="Fill-397" points="7 11.7686 3.116 7.8846 4.884 6.1166 7 8.2326 11.116 4.1166 12.884 5.8846"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

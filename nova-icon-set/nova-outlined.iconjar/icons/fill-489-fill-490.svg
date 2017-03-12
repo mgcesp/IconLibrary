@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 489 + Fill 490</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-339.000000, -625.000000)" fill="#757575">
+            <g id="Fill-489-+-Fill-490" transform="translate(339.000000, 625.000000)">
+                <path d="M2,17.0005 L2,15.0005 L16,15.0005 L16.001,17.0005 L2,17.0005 Z M16,13.0005 L2,13.0005 C0.897,13.0005 0,13.8965 0,15.0005 L0,17.0005 C0,18.1035 0.897,19.0005 2,19.0005 L16,19.0005 C17.103,19.0005 18,18.1035 18,17.0005 L18,15.0005 C18,13.8965 17.103,13.0005 16,13.0005 L16,13.0005 Z" id="Fill-489"></path>
+                <path d="M8.9995,2.6294 L13.9555,9.0004 L4.0445,9.0004 L8.9995,2.6294 Z M4.0445,11.0004 L13.9555,11.0004 C14.7125,11.0004 15.4175,10.5614 15.7515,9.8804 C16.0845,9.1994 15.9995,8.3724 15.5345,7.7724 L10.5785,1.4004 C9.8145,0.4214 8.1855,0.4194 7.4215,1.4024 L2.4655,7.7734 C1.9995,8.3724 1.9145,9.1994 2.2485,9.8804 C2.5815,10.5614 3.2875,11.0004 4.0445,11.0004 L4.0445,11.0004 Z" id="Fill-490"></path>
+            </g>
+        </g>
+    </g>
+</svg>

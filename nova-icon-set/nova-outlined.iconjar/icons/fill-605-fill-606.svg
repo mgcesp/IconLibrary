@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 605 + Fill 606</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-Icons" transform="translate(-388.000000, -961.000000)" fill="#767676">
+            <g id="Fill-605-+-Fill-606" transform="translate(388.000000, 961.000000)">
+                <path d="M11.293,5.2942 L7,9.5872 L4.707,7.2942 L3.293,8.7082 L6.293,11.7082 C6.488,11.9032 6.744,12.0012 7,12.0012 C7.256,12.0012 7.512,11.9032 7.707,11.7082 L12.707,6.7082 L11.293,5.2942 Z" id="Fill-605"></path>
+                <path d="M8,17.6553 C5.87,15.6583 2,11.3393 2,8.0013 C2,4.6923 4.691,2.0013 8,2.0013 C11.309,2.0013 14,4.6923 14,8.0013 C14,11.3393 10.13,15.6583 8,17.6553 M8,0.0013 C3.589,0.0013 0,3.5903 0,8.0013 C0,12.4123 4.644,17.4413 8,20.3193 C11.353,17.4433 16,12.4123 16,8.0013 C16,3.5903 12.411,0.0013 8,0.0013" id="Fill-606"></path>
+            </g>
+        </g>
+    </g>
+</svg>
